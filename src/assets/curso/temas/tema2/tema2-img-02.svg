@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="819.999" height="582.455" viewBox="0 0 819.999 582.455">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.495" stop-color="#f3a515"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1e8474"/>
+      <stop offset="0.738" stop-color="#112248"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#112248"/>
+      <stop offset="0.781" stop-color="#1e8474"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.203" stop-color="#1e8474"/>
+      <stop offset="0.781" stop-color="#1e8474"/>
+      <stop offset="0.989" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-11" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.738" stop-color="#e1364a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-12" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e1364a"/>
+      <stop offset="0.738" stop-color="#f3a515"/>
+      <stop offset="0.992" stop-color="#fff"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.482" gradientTransform="translate(-0.041) scale(1.081 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f3a515"/>
+      <stop offset="0.738" stop-color="#e1364a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.482" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="Grupo_878576" data-name="Grupo 878576" transform="translate(-390.001 -946.395)">
+    <g id="Grupo_878377" data-name="Grupo 878377" transform="translate(274.827 779.789)">
+      <path id="Trazado_616941" data-name="Trazado 616941" d="M116.083,301.953,925.089,182.372v32.946L115.81,339.78Z" transform="translate(0.745 56.743)" fill="url(#linear-gradient)"/>
+      <line id="Línea_209" data-name="Línea 209" x2="819.999" transform="translate(115.174 166.853)" fill="none" stroke="#161615" stroke-miterlimit="10" stroke-width="0.494"/>
+      <rect id="Rectángulo_293934" data-name="Rectángulo 293934" width="82.606" height="177.161" transform="translate(115.174 448.61)" fill="#fff"/>
+      <text id="Período_Normal_" data-name="Período Normal/ " transform="translate(198.524 200.963)" fill="#161615" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Período</tspan><tspan y="0" letter-spacing="0.028em"> </tspan><tspan y="0">Normal/ </tspan></text>
+      <text id="Reducción_del_Riesgo_de_" data-name="Reducción del Riesgo de " transform="translate(198.524 218.107)" fill="#161615" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Reducción</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">del</tspan><tspan y="0" letter-spacing="0.028em"> </tspan><tspan y="0">Riesgo</tspan><tspan y="0" letter-spacing="0.028em"> </tspan><tspan y="0">de </tspan></text>
+      <text id="Desastres_RRD_" data-name="Desastres (RRD)" transform="translate(198.524 235.25)" fill="#161615" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Desastres</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">(RRD)</tspan></text>
+      <text id="Período_de_" data-name="Período de  " transform="translate(485.723 200.965)" fill="#161615" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.009em">P</tspan><tspan y="0" letter-spacing="-0.01em">e</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0" letter-spacing="-0.01em">í</tspan><tspan y="0" letter-spacing="-0.009em">o</tspan><tspan y="0" letter-spacing="-0.01em">do</tspan><tspan y="0" letter-spacing="0.017em"> </tspan><tspan y="0" letter-spacing="-0.009em">d</tspan><tspan y="0">e</tspan><tspan y="0" letter-spacing="0.007em"> </tspan><tspan y="0"> </tspan></text>
+      <text id="Respuesta_Frente_" data-name="Respuesta Frente  " transform="translate(485.723 218.108)" fill="#161615" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.01em">R</tspan><tspan y="0" letter-spacing="-0.009em">esp</tspan><tspan y="0" letter-spacing="-0.01em">ue</tspan><tspan y="0" letter-spacing="-0.009em">st</tspan><tspan y="0" letter-spacing="-0.01em">a</tspan><tspan y="0" letter-spacing="0.018em"> </tspan><tspan y="0" letter-spacing="-0.01em">F</tspan><tspan y="0" letter-spacing="-0.009em">re</tspan><tspan y="0" letter-spacing="-0.01em">n</tspan><tspan y="0" letter-spacing="-0.009em">t</tspan><tspan y="0">e</tspan><tspan y="0" letter-spacing="0.007em"> </tspan><tspan y="0"> </tspan></text>
+      <text id="a_la_Emergencia" data-name="a la Emergencia" transform="translate(485.723 235.251)" fill="#161615" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.009em">a</tspan><tspan y="0" letter-spacing="0.017em"> </tspan><tspan y="0" letter-spacing="-0.009em">l</tspan><tspan y="0" letter-spacing="-0.01em">a</tspan><tspan y="0" letter-spacing="0.018em"> </tspan><tspan y="0" letter-spacing="-0.009em">Emer</tspan><tspan y="0" letter-spacing="-0.01em">g</tspan><tspan y="0" letter-spacing="-0.009em">e</tspan><tspan y="0" letter-spacing="-0.01em">n</tspan><tspan y="0" letter-spacing="-0.009em">ci</tspan><tspan y="0">a</tspan></text>
+      <text id="Período_" data-name="Período  " transform="translate(683.535 200.966)" fill="#161615" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Período</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0"> </tspan></text>
+      <text id="de_Recuperación" data-name="de Recuperación" transform="translate(683.535 218.109)" fill="#161615" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">de</tspan><tspan y="0" letter-spacing="0.028em"> </tspan><tspan y="0">Recuperación</tspan></text>
+      <line id="Línea_210" data-name="Línea 210" y1="75.302" transform="translate(479.617 181.688)" fill="none" stroke="#b9babd" stroke-width="0.989" stroke-dasharray="3.13 2.141"/>
+      <line id="Línea_211" data-name="Línea 211" y1="99.887" transform="translate(607.18 181.688)" fill="none" stroke="#b9babd" stroke-width="0.989" stroke-dasharray="2.894 1.906"/>
+      <line id="Línea_212" data-name="Línea 212" y1="64.541" transform="translate(855.138 181.688)" fill="none" stroke="#b9babd" stroke-width="0.989" stroke-dasharray="3.158 2.169"/>
+      <line id="Línea_213" data-name="Línea 213" y1="23.537" transform="translate(855.138 286.13)" fill="none" stroke="#b9babd" stroke-width="0.989" stroke-dasharray="2.568 1.579"/>
+      <line id="Línea_214" data-name="Línea 214" y1="113.129" transform="translate(855.138 597.426)" fill="none" stroke="#b9babd" stroke-width="0.989" stroke-dasharray="2.957 1.968"/>
+      <line id="Línea_215" data-name="Línea 215" y1="120.722" transform="translate(607.18 323.334)" fill="none" stroke="#b9babd" stroke-width="0.989" stroke-dasharray="2.895 1.907"/>
+      <line id="Línea_216" data-name="Línea 216" y1="108.321" transform="translate(607.18 492.648)" fill="none" stroke="#b9babd" stroke-width="0.989" stroke-dasharray="2.851 1.862"/>
+      <line id="Línea_217" data-name="Línea 217" y1="48.086" transform="translate(607.18 617.674)" fill="none" stroke="#b9babd" stroke-width="0.989" stroke-dasharray="2.905 1.916"/>
+      <line id="Línea_218" data-name="Línea 218" y1="36.445" transform="translate(479.617 365.092)" fill="none" stroke="#b9babd" stroke-width="0.989" stroke-dasharray="2.826 1.837"/>
+      <line id="Línea_219" data-name="Línea 219" y1="85.644" transform="translate(479.617 434.944)" fill="none" stroke="#b9babd" stroke-width="0.989" stroke-dasharray="3.096 2.107"/>
+      <line id="Línea_220" data-name="Línea 220" y1="85.644" transform="translate(479.617 535.167)" fill="none" stroke="#b9babd" stroke-width="0.989" stroke-dasharray="3.096 2.107"/>
+      <text id="Clave" transform="translate(135.774 493.03)" fill="#161615" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Clave</tspan></text>
+      <text id="Patrón_de_crecimiento_" data-name="Patrón de crecimiento  " transform="translate(178.058 517.523)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Patrón</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">de</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">crecimiento</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0"> </tspan></text>
+      <text id="social_económico_normal" data-name="social/económico normal" transform="translate(178.058 532.522)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">social/económico</tspan><tspan y="0" letter-spacing="0.028em"> </tspan><tspan y="0">normal</tspan></text>
+      <text id="Amenaza_desastre_" data-name="Amenaza/desastre  " transform="translate(178.058 558.288)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Amenaza/desastre</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0"> </tspan></text>
+      <text id="de_envergadura" data-name="de envergadura" transform="translate(178.058 573.288)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">de</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">envergadura</tspan></text>
+      <text id="Iniciativas_de_recuperación" data-name="Iniciativas de recuperación" transform="translate(178.058 631.532)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Iniciativas</tspan><tspan y="0" letter-spacing="0.028em"> </tspan><tspan y="0">de</tspan><tspan y="0" letter-spacing="0.028em"> </tspan><tspan y="0">recuperación</tspan></text>
+      <text id="Evaluación_del_riesgo" data-name="Evaluación del riesgo" transform="translate(304.045 378.175)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Evaluación</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">del</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">riesgo</tspan></text>
+      <text id="Alerta_evacuación" data-name="Alerta/evacuación" transform="translate(412.095 435.121)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Alerta/evacuación</tspan></text>
+      <text id="Búsqueda_y_rescate" data-name="Búsqueda y rescate" transform="translate(443.006 474.467)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.02em">Bú</tspan><tspan y="0" letter-spacing="-0.019em">s</tspan><tspan y="0" letter-spacing="-0.02em">qued</tspan><tspan y="0" letter-spacing="-0.019em">a</tspan><tspan y="0" letter-spacing="0.008em"> </tspan><tspan y="0" letter-spacing="-0.02em">y</tspan><tspan y="0" letter-spacing="0.008em"> </tspan><tspan y="0" letter-spacing="-0.019em">rescat</tspan><tspan y="0">e</tspan></text>
+      <text id="Coordinación" transform="translate(385.506 539.795)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Coordinación</tspan></text>
+      <text id="Evaluación_de_daños" data-name="Evaluación de daños" transform="translate(516.066 609.65)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Evaluación</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">de</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">daños</tspan></text>
+      <text id="Reconstrucción" transform="translate(778.768 432.994)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Reconstrucción</tspan></text>
+      <text id="Restauración_de_la_infraestructura_de_servicios" data-name="Restauración de la infraestructura de servicios" transform="translate(635.235 508.024)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Restauración</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">de</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">la</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">infraestructura</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">de</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">servicios</tspan></text>
+      <text id="Proporcionar_ayuda" data-name="Proporcionar ayuda" transform="translate(767.532 576.763)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Proporcionar</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">ayuda</tspan></text>
+      <text id="Iniciativas_de_emergencia" data-name="Iniciativas de emergencia" transform="translate(178.059 601.161)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Iniciativas</tspan><tspan y="0" letter-spacing="0.028em"> </tspan><tspan y="0">de</tspan><tspan y="0" letter-spacing="0.028em"> </tspan><tspan y="0">emergencia</tspan></text>
+      <text id="Iniciativas_de_RRD" data-name="Iniciativas de RRD" transform="translate(178.059 664.045)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Iniciativas</tspan><tspan y="0" letter-spacing="0.028em"> </tspan><tspan y="0">de</tspan><tspan y="0" letter-spacing="0.028em"> </tspan><tspan y="0">RRD</tspan></text>
+      <text id="Mitigación_prevención" data-name="Mitigación /prevención" transform="translate(304.046 406.284)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Mitigación</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">/prevención</tspan></text>
+      <text id="Preparación_" data-name="Preparación " transform="translate(327.413 451.839)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Preparación </tspan></text>
+      <text id="Reestablecer_rutas_logísticas" data-name="Reestablecer rutas logísticas" transform="translate(385.506 511.08)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Reestablecer</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">rutas</tspan><tspan y="0" letter-spacing="0.028em"> </tspan><tspan y="0">logísticas</tspan></text>
+      <text id="Proporcionar_" data-name="Proporcionar  " transform="translate(385.506 575.347)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Proporcionar</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0"> </tspan></text>
+      <text id="asistencia" transform="translate(385.506 590.347)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">asistencia</tspan></text>
+      <text id="Actividades_de_desarrollo_" data-name="Actividades de desarrollo  " transform="translate(759.806 397.748)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Actividades</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">de</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">desarrollo</tspan><tspan y="0" letter-spacing="-0.003em"> </tspan><tspan y="0"> </tspan></text>
+      <text id="en_marcha" data-name="en marcha" transform="translate(759.806 408.192)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">en</tspan><tspan y="0" letter-spacing="0.028em"> </tspan><tspan y="0">marcha</tspan></text>
+      <text id="Recuperación_económica_social" data-name="Recuperación económica/social" transform="translate(686.595 467.921)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Recuperación</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0">económica/social</tspan></text>
+      <text id="Coordinación-2" data-name="Coordinación" transform="translate(767.532 542.954)" fill="#161615" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Coordinación</tspan></text>
+      <text id="RESPUESTA_" data-name="RESPUESTA  " transform="translate(492.119 679.973)" fill="#161615" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">RESPUESTA</tspan><tspan y="0" letter-spacing="0.027em"> </tspan><tspan y="0"> </tspan></text>
+      <text id="DE_LOS_MEDIOS" data-name="DE LOS MEDIOS" transform="translate(492.119 697.116)" fill="#161615" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">DE</tspan><tspan y="0" letter-spacing="0.028em"> </tspan><tspan y="0">LOS</tspan><tspan y="0" letter-spacing="0.028em"> </tspan><tspan y="0">MEDIOS</tspan></text>
+      <line id="Línea_221" data-name="Línea 221" x2="819.999" transform="translate(115.174 748.814)" fill="none" stroke="#161615" stroke-width="0.494"/>
+      <path id="Trazado_616942" data-name="Trazado 616942" d="M202.469,253.826h93.55v-4.067l30.1,7.321-29.692,7.728v-4.474H202.469Z" transform="translate(101.866 135.376)" fill="#1e8474"/>
+      <path id="Trazado_616943" data-name="Trazado 616943" d="M202.469,267.153h93.55v-4.067l30.1,7.321-29.692,7.728v-4.474H202.469Z" transform="translate(101.866 150.927)" fill="#1e8474"/>
+      <path id="Trazado_616944" data-name="Trazado 616944" d="M251.46,267.153H320.2v-4.067l30.1,7.321-29.692,7.728v-4.474H251.46Z" transform="translate(159.034 150.927)" fill="url(#linear-gradient-2)"/>
+      <path id="Trazado_616945" data-name="Trazado 616945" d="M209.789,287.988h93.55v-4.067l30.1,7.321-29.692,7.728V294.5H209.789Z" transform="translate(110.408 175.24)" fill="#1e8474"/>
+      <path id="Trazado_616946" data-name="Trazado 616946" d="M285.81,283.483h28.472v-4.067l30.1,7.321-29.692,7.728v-4.474H285.81Z" transform="translate(199.117 169.983)" fill="#112248"/>
+      <path id="Trazado_616947" data-name="Trazado 616947" d="M286.186,300H345.57v-4.067l30.1,7.321-29.692,7.728v-4.474H286.186Z" transform="translate(199.555 189.258)" fill="url(#linear-gradient-2)"/>
+      <path id="Trazado_616948" data-name="Trazado 616948" d="M287.688,331.536h90.3v-4.067l30.1,7.321-29.692,7.728v-4.474h-90.7Z" transform="translate(201.307 226.056)" fill="#112248"/>
+      <path id="Trazado_616949" data-name="Trazado 616949" d="M299.138,345.426h65.078v-4.067l30.1,7.321-29.692,7.728v-4.474H299.138Z" transform="translate(214.668 242.264)" fill="#112248"/>
+      <path id="Trazado_616950" data-name="Trazado 616950" d="M348.129,345.426h76.06v-4.067l30.1,7.321L424.6,356.409v-4.474H348.129Z" transform="translate(271.836 242.264)" fill="url(#linear-gradient-4)"/>
+      <path id="Trazado_616951" data-name="Trazado 616951" d="M348.129,331.161h277.4v-4.067l30.1,7.321-29.692,7.728v-4.474h-277.8Z" transform="translate(271.836 225.618)" fill="url(#linear-gradient-4)"/>
+      <path id="Trazado_616952" data-name="Trazado 616952" d="M348.317,316.144H576.9v-4.067L607,319.4l-29.692,7.728v-4.474H348.317Z" transform="translate(272.055 208.095)" fill="url(#linear-gradient-4)"/>
+      <path id="Trazado_616953" data-name="Trazado 616953" d="M364.272,299.626H560.321v-4.067l30.1,7.321-29.692,7.728v-4.474H364.272Z" transform="translate(290.673 188.82)" fill="url(#linear-gradient-4)"/>
+      <path id="Trazado_616954" data-name="Trazado 616954" d="M380.414,283.108H569.955v-4.067l30.1,7.321-29.692,7.728v-4.474H380.414Z" transform="translate(309.51 169.545)" fill="url(#linear-gradient-4)"/>
+      <path id="Trazado_616955" data-name="Trazado 616955" d="M412.512,266.965h120.8V262.9l30.1,7.321-29.692,7.728v-4.474H412.512Z" transform="translate(346.965 150.708)" fill="#1e8474"/>
+      <path id="Trazado_616956" data-name="Trazado 616956" d="M431.658,248.758h78.5V244.69l30.1,7.321-29.692,7.728v-4.474H431.658Z" transform="translate(369.306 129.462)" fill="#1e8474"/>
+      <path id="Trazado_616957" data-name="Trazado 616957" d="M274.36,315.581H393.129v-4.067l30.1,7.321-29.692,7.728v-4.474H274.36Z" transform="translate(185.756 207.438)" fill="url(#linear-gradient-2)"/>
+      <path id="Trazado_616958" data-name="Trazado 616958" d="M115.936,452.3l164.73-2.44,165.95-6.1,37.827-37.827,9.762-51.249,24.4,12.2,108.6,48.809,80.535,24.4,75.654,8.542,140.325,8.542v8.541H115.936Z" transform="translate(0.891 257.816)" fill="url(#linear-gradient-10)"/>
+      <path id="Trazado_616959" data-name="Trazado 616959" d="M128.795,273.509l366.066-57.35-6.1,12.2-366.066,56.13Z" transform="translate(8.776 96.169)" fill="url(#linear-gradient-11)"/>
+      <rect id="Rectángulo_293938" data-name="Rectángulo 293938" width="34.166" height="17.897" transform="translate(136.351 653.176)" fill="#e1364a"/>
+      <rect id="Rectángulo_293939" data-name="Rectángulo 293939" width="34.166" height="17.897" transform="translate(136.351 623.891)" fill="#f3a515"/>
+      <rect id="Rectángulo_293940" data-name="Rectángulo 293940" width="34.166" height="17.897" transform="translate(136.351 592.165)" fill="#112248"/>
+      <rect id="Rectángulo_293941" data-name="Rectángulo 293941" width="33.353" height="18.71" transform="translate(137.164 515.698)" fill="#1e8474"/>
+      <path id="Trazado_616960" data-name="Trazado 616960" d="M285.717,241.125S323.542,378.4,388.824,392.433c0,0,53.08,20.744,109.82-48.809,0,0,74.433-76.873,192.8-87.855V213.062S567.587,223.433,459.6,326.542c0,0-46.367,62.231-84.806,6.711,0,0-46.367-70.162-53.078-103.718Z" transform="translate(199.008 92.555)" fill="url(#linear-gradient-12)"/>
+      <path id="Trazado_616961" data-name="Trazado 616961" d="M295.246,270.884l-10.982,30.506L313.549,283.7l7.321,31.116,12.2-31.116,24.4,14.643-8.542-29.9,30.505-3.661-26.235-19.524,21.964-24.4-33.556,6.711V192.789L321.48,219.634,301.347,194.01l-.61,34.166-34.166-6.711L289.145,247.7l-20.134,15.253Z" transform="translate(176.666 68.899)" stroke="#fff" stroke-miterlimit="10" stroke-width="1" fill="url(#radial-gradient)"/>
+      <path id="Trazado_616962" data-name="Trazado 616962" d="M133.684,348.525l-3.5,9.729,9.34-5.643,2.335,9.923,3.892-9.923,7.783,4.67-2.724-9.534,9.729-1.167-8.367-6.226,7-7.783-10.7,2.14V323.62l-6.421,8.561-6.421-8.172-.195,10.9-10.9-2.14,7.2,8.367L125.317,346Z" transform="translate(10.93 221.564)" fill="url(#radial-gradient-2)"/>
+      <path id="Trazado_616963" data-name="Trazado 616963" d="M568.751,220.664s-115.922,14.642-190.964,94.568l7.32,7.32S452.22,251.17,569.36,231.646Z" transform="translate(306.444 101.426)" fill="url(#linear-gradient-12)"/>
+    </g>
+  </g>
+</svg>
