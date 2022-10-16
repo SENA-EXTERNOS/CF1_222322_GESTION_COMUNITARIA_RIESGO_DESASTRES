@@ -9,7 +9,7 @@
 
     .row.justify-content-around.aling-items-center.mb-5
       .col-lg-12.mb-lg-0
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade-up")
+        .bloque-texto-g.p-3.p-sm-4.p-md-5(data-aos="fade-up")
           .bloque-texto-g__img1(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-img-01.svg')})`}"
           )
