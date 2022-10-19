@@ -7,7 +7,7 @@
         span 1
       h1 Marco normativo de la gestión del riesgo de desastres
 
-    .row.justify-content-around.aling-items-center.mb-5
+    .row.justify-content-around.aling-items-center
       .col-lg-12.mb-lg-0
         .bloque-texto-g.p-3.p-sm-4.p-md-5(data-aos="fade-up")
           .bloque-texto-g__img1(
@@ -15,15 +15,12 @@
           )
           .bloque-texto-g__texto1.p-4
            p.mb-0 La Tierra es un sistema que cambia y evoluciona.  El agua y las placas tectónicas se mueven y el aire se encuentra en circulación; mientras el planeta circula alrededor del sol y la luna rodea la tierra; cada una de las interacciones de diversos fenómenos se manifiestan a través de la formación de la lluvia, mareas, vientos, sequías, sistemas montañosos, valles. La transformación de la humanidad ha producido que el hombre tenga mayores interacciones con estos fenómenos naturales y ante el crecimiento poblacional, las consecuencias de estas interacciones son más severas y promueven el cambio del territorio en el corto, mediano y largo plazo.
-
-    figure(data-aos="fade-up")
-      img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-01.svg").tema1-decorativa-01 
          
     figure
       img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-06.svg").tema1-decorativa-06
 
     .row.justify-content-around
-      .col-lg-10.mb-lg-0.mt-lg-3
+      .col-lg-10.mb-lg-0.mt-lg-1
         .row.mb-4
           .col-lg-4.justify-content-up.align-items-center
             p Así como en el mundo, Colombia no está exenta a las consecuencias derivadas de un fenómeno de origen natural o antropogénico que se visualizan notoriamente en la seguridad y calidad de vida de la población.
@@ -62,7 +59,7 @@
             p.justify-content-center.mt-5 #[b Los procesos participativos por ende promueven el conocimiento del riesgo de desastres que se ve traducido en la implementación de acciones de prevención y mitigación del riesgo para disminuir su vulnerabilidad frente a estos y permitan que la comunidad pueda satisfacer sus necesidades, mejorar su calidad de vida, el bienestar y la sustentabilidad del territorio.]             
 
         .row.justify-content-around.mt-5
-          .col-lg-11.mb-lg-0.mt-lg-3
+          .col-lg-11.mb-lg-0.mt-lg-1
             .bloque-texto-g.color-acento-contenido.p-3.p-sm-1.p-md-5(data-aos="fade-up")       
               .bloque-texto-g__img2(
                 :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-img-04.svg')})`}"
@@ -134,8 +131,8 @@
           .bloque-texto-g__texto5.p-4
            p.mb-0 La Dirección de Cambio Climático y Gestión del Riesgo se encarga del desarrollo de bases técnicas y operativas necesarias para mejorar gestión del cambio climático en los diferentes sectores y territorios del país, en asocio con los diferentes sectores y territorios del país, en asocio con los diferentes actores nacionales e internacionales de carácter público y privado, donde #[b dentro de sus funciones está la relacionada con el establecimiento de lineamientos para prevenir el riesgo ecológico en asocio con el Sistema Nacional de Prevención y Atención de Desastres, así como orientar la evaluación de impactos de vulnerabilidad de la biodiversidad y sus servicios ecosistémicos por efectos del cambio climático], entre otros (Ministerio de Ambiente y Desarrollo Sostenible [MADS],s.f.)
 
-    figure(data-aos="fade-right")
-      img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-03.svg").tema1-decorativa-03  
+    figure
+      img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-03.svg").tema1-decorativa-03(data-aos="fade-right")  
     
     figure
       img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-04.svg").tema1-decorativa-04      
@@ -160,7 +157,7 @@
     separador
        
     #t_1_2.titulo-segundo.color-acento-contenido.mt-5
-      h2 1.2 Normativa en ordenamiento territorial.    
+      h2 1.2 Normativa en ordenamiento territorial    
 
     p.mb-5.mt-3 La ordenación territorial en Colombia se encuentra regulada por la Ley 152 de 1994 y la Ley 388 de 1997, esta Ley establece el proceso que guía el crecimiento territorial y regula el uso, modificación y apropiación de cualquier espacio. Para lograr este objetivo, se crearon los planes de ordenamiento territorial como la herramienta de orientación y administración del desarrollo y el uso de los espacios y el suelo, estos planes de ordenamiento territorial son llamados POT y se nombran según el número de habitantes de cada municipio así.  
     
@@ -364,7 +361,7 @@
 
     img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-06.svg").tema1-decorativa-08
 
-    .row.justify-content-around.mt-5
+    .row.justify-content-around.align-items-center.mt-5
       .col-lg-10.mb-lg-0.mt-lg-3
         .crd.crd--avatarHorizontal.crd--first.py-4
           .row.align-items-center
@@ -391,7 +388,7 @@
     p.mt-5.mb-4 Adicional a la Ley 1523 de 2012, el SNGRD se encuentra soportado por los siguientes instrumentos normativos.
     
     .row.justify-content-around
-      .col-lg-7.mb-lg-0.mt-lg-3
+      .col-lg-8.mb-lg-0.mt-lg-3
         h4 Instrumentos normativos Sistema Nacional de Gestión del Riesgo de Desastres
 
     AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta clr--gris")

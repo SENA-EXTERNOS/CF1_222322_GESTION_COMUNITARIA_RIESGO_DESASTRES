@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'Marco normativo y conceptual de la gestión del riesgo de desastres.',
+      'Marco normativo y conceptual de la gestión del riesgo de desastres',
     descripcionCurso:
       'En este componente formativo podrá reconocer el marco normativo y conceptual aplicable a la gestión del riesgo de desastres y podrá comprenderlo como un proceso social que puede ser desarrollado de manera organizada y coherente a través de métodos participativos concertados con las comunidades, con el fin de entender y reducir el riesgo, preparar y atender oportunamente un desastre por parte de la comunidad para la construcción de territorios más seguros, sostenibles y resilientes.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
@@ -143,7 +143,7 @@ export default {
       referencia:
         'Unidad Nacional de Gestión del Riesgo de Desastres (UNGRD). (8 de julio de 2019). Comunidades Unidas en Gestión del Riesgo de Desastres.',
       tipo: 'Video',
-      descarga:
+      link:
         'https://www.youtube.com/watch?v=1xdhPbXw404&ab_channel=UNGRDGesti%C3%B3ndelRiesgodeDesastres',
     },
     {
@@ -151,7 +151,7 @@ export default {
       referencia:
         'Programa de las Naciones Unidas para el Desarrollo. (18 de octubre de 2016). Introducción Curso en Gestión del riesgo de desastres para autoridades ambientales.',
       tipo: 'Video',
-      descarga:
+      link:
         'https://www.youtube.com/watch?v=tjQl665fCrM&ab_channel=PNUDEquipodegesti%C3%B3ndeconocimiento',
     },
     {
@@ -159,7 +159,7 @@ export default {
       referencia:
         'Ministerio de Ambiente y Desarrollo Sostenible (MADS). (s.f.). Enfoque de Reducción de Riesgo de Desastres basado en Ecosistemas (ECO RRD). ',
       tipo: 'Documento',
-      descarga:
+      link:
         'https://www.minambiente.gov.co/wp-content/uploads/2021/12/DOC-Conceptual_metodologicoEco-RRD_2021_comp.pdf',
     },
     {
@@ -167,29 +167,29 @@ export default {
       referencia:
         'Departamento Nacional de Planeación (DNP). (2022).<i> Marco Normativo para la Gestión Territorial.</i>',
       tipo: 'Documento',
-      descarga:
-        'https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/20035/Normatividad_del_Sistema_Nacional_de_Gesti%C3%B3n_del_Riesgo_de_Desastres-.pdf?sequence=1&isAllowed=y',
+      link:
+        'https://www.dnp.gov.co/programas/desarrollo-territorial/Fortalecimiento-Gestion-y-Finanzas-Publicas-Territoriales/marco-normativo-para-la-gestion-territorial',
     },
     {
       tema: 'Normativa en gestión del riesgo de desastres.',
       referencia:
         'Unidad Nacional para la Gestión del Riesgo de Desastres - Sistema Nacional de Gestión del Riego de Desastres. (2022).<i>Actualización Plan Nacional de Gestión del Riesgo de Desastres "Una estrategia de desarrollo"</i> 2015 - 2030. Colombia.',
       tipo: 'Documento',
-      descarga: '/downloads/anexo1.pdf',
+      descarga: '',
     },
     {
       tema: 'Elementos marco del riesgo de desastres.',
       referencia:
         'Organización de las Naciones Unidas. (22 de octubre de 2015). Marco de Sendái para la Reducción del Riesgo de Desastres 2015-2030. Nueva York',
       tipo: 'Documento',
-      descarga: 'https://www.preventionweb.net/files/resolutions/N1516720.pdf',
+      link: 'https://www.preventionweb.net/files/resolutions/N1516720.pdf',
     },
     {
       tema: 'Elementos marco del riesgo de desastres.',
       referencia:
         'Organización de las Naciones Unidas. (2022). Objetivos y Metas de Desarrollo Sotenible.',
       tipo: 'Pagina Web',
-      descarga:
+      link:
         'https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/',
     },
     {
@@ -197,7 +197,7 @@ export default {
       referencia:
         'Organización de las Naciones Unidas para la Cultura, las Ciencias y la Educación (UNESCO). (26 de enero de 2017). Los objetivos de Desarrollo Sostenible qué son y cómo alcanzarlos',
       tipo: 'Video',
-      descarga:
+      link:
         'https://www.youtube.com/watch?v=MCKH5xk8X-g&ab_channel=UNESCOenespa%C3%B1ol',
     },
     {
@@ -206,7 +206,7 @@ export default {
       referencia:
         'Organización de las Naciones Unidas. (22 de octubre de 2015). Marco de Sendái para la Reducción del Riesgo de Desastres 2015-2030. Nueva York',
       tipo: 'Documento',
-      descarga: 'https://www.preventionweb.net/files/resolutions/N1516720.pdf',
+      link: 'https://www.preventionweb.net/files/resolutions/N1516720.pdf',
     },
   ],
   glosario: [

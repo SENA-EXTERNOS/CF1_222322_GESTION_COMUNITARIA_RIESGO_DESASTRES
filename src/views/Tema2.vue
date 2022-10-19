@@ -7,7 +7,7 @@
         span 2
       h1 Marco conceptual en la gestión del riesgo de desastres
 
-    .row.justify-content-around.aling-items-center.mb-5
+    .row.justify-content-around.aling-items-center.mb-1
       .col-lg-12.mb-lg-0
         .bloque-texto-g.p-3.p-sm-4.p-md-5(data-aos="fade-up")
           .bloque-texto-g__img1-2(
@@ -15,15 +15,13 @@
           )
           .bloque-texto-g__texto1-2.p-4
            p.mb-0 Al trabajar la Gestión del Riesgo de Desastres (GRD) en el marco de la gestión de procesos permite que se pueda controlar y dar seguimiento transversal de los riesgos y permite la inclusión de capacidades y acciones que articulan de forma integral a aquellas entidades pertenecientes al SNGRD. Además, promueve una transformación en la forma de afrontar los problemas relacionados con los desastres.
-
-    figure(data-aos="fade-up")
-      img(src="@/assets/curso/temas/tema2/tema2-img-decorativa-01.svg").tema2-decorativa-01
     
-    .row.mt-5
+    
+    .row.mt-2
       p.mt-5.mb-5 La Gestión del Riesgo de Desastres (GRD) está fundamentada en el conocimiento del riesgo, para con ello diseñar las acciones prospectivas y de corrección del riesgo basadas en información real y verificable. Además, fortalece el tratamiento y manejo de desastres, el cual no sólo se limita a la atención y a la respuesta, sino a una recuperación que no solo llegue a replicar las condiciones preexistentes al desastre, sino que promuevan la transformación del escenario de riesgo y permita que el territorio sea seguro y ambientalmente sostenible.
 
     .row.justify-content-center.align-items-center
-      .col-lg-5.mb-lg-0.mt-lg-3
+      .col-lg-6.mb-lg-0.mt-lg-3
         h4.mb-5 Marco de la Gestión del Riesgo de Desastres (MGRD)
 
     .row.justify-content-center.align-items-center.mb-5
@@ -130,8 +128,6 @@
           .bloque-texto-g__texto6.p-4
            p.mb-0 Sin embargo, el Marco de Sendái, establece 7 objetivos fundamentados en la prevención y reducción de los impactos o consecuencias por los desastres de origen natural o antropogénico, asimismo, es la herramienta centrada en el cumplimiento de los objetivos de desarrollo sostenible (ODS). Promoviendo la transformación del paradigma del conocimiento del riesgo de desastres y su enfoque en la gestión de estos en el entorno ambiental, social y económico.
 
-    figure(data-aos="fade-up")
-      img(src="@/assets/curso/temas/tema2/tema2-img-decorativa-03.svg").tema2-decorativa-03
     
     .row.align-items-center.mt-5
       .col-lg-8
@@ -167,7 +163,7 @@
         figure
           img(src="@/assets/curso/temas/tema2/tema2-img-13.svg")
       .col-lg-7
-        AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta clr--gris")
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta clr_gris")
           .row(titulo="Concepto 1")
             .col-12
               p.mb-0 La destrucción de la infraestructura y el deterioro de los medios de vida a causa de desastres naturales generan retrasos en el desarrollo de la comunidad y presión sobre los presupuestos de los entes territoriales destinados para la reducción de la pobreza y fortalecimiento de los sistemas de abastecimiento de servicios (agua, energía, entre otros).

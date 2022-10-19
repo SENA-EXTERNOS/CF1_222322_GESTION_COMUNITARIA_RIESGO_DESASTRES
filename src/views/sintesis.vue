@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-sexto.color-acento-contenido.mb-5
       .row.mb-2
-        h5 Gestión comunitaria del riesgo de desastres
+        h5 Gestión comunitaria del riesgo de desastres.
       .row
         span Síntesis:  Marco normativo y conceptual de la gestión del riesgo de desastres.
     
