@@ -175,7 +175,7 @@ export default {
       referencia:
         'Unidad Nacional para la Gestión del Riesgo de Desastres - Sistema Nacional de Gestión del Riego de Desastres. (2022).<i>Actualización Plan Nacional de Gestión del Riesgo de Desastres "Una estrategia de desarrollo"</i> 2015 - 2030. Colombia.',
       tipo: 'Documento',
-      descarga: '',
+      descarga: '/downloads/anexo3.pdf',
     },
     {
       tema: 'Elementos marco del riesgo de desastres.',
