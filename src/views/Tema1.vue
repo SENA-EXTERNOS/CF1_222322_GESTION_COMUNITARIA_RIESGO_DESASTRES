@@ -7,7 +7,7 @@
         span 1
       h1 Marco normativo de la gestión del riesgo de desastres
 
-    .row.justify-content-around.aling-items-center
+    .row.justify-content-around.aling-items-center.mt-5
       .col-lg-12.mb-lg-0
         .bloque-texto-g.p-3.p-sm-4.p-md-5(data-aos="fade-up")
           .bloque-texto-g__img1(
@@ -53,10 +53,14 @@
               img(src='@/assets/curso/temas/tema1/tema1-img-03.svg', alt='Texto que describa la imagen')
 
           div(x="25.5%" y="40.5%" tooltip="Ver más")
-            p.justify-content-center.mt-5 #[b Para adelantar acciones que promuevan la GRD en el territorio es necesario el compromiso, el conocimiento de la normativa aplicable, el liderazgo y la motivación de la comunidad ya que este no es un proceso individual, sino que conlleva la participación concertada de la comunidad, con aras de generar la movilización social para reducir el riesgo, y con ello los desastres.]             
+            .row.justify-content-center.align-items-center.mb-4.mt-5
+              .col-lg-10.mb-lg-0.mt-lg-1.mt-5
+                p.justify-content-center.mt-5 #[b Para adelantar acciones que promuevan la GRD en el territorio es necesario el compromiso, el conocimiento de la normativa aplicable, el liderazgo y la motivación de la comunidad ya que este no es un proceso individual, sino que conlleva la participación concertada de la comunidad, con aras de generar la movilización social para reducir el riesgo, y con ello los desastres.]             
 
           div(x="70.5%" y="28.5%" tooltip="Ver más")
-            p.justify-content-center.mt-5 #[b Los procesos participativos por ende promueven el conocimiento del riesgo de desastres que se ve traducido en la implementación de acciones de prevención y mitigación del riesgo para disminuir su vulnerabilidad frente a estos y permitan que la comunidad pueda satisfacer sus necesidades, mejorar su calidad de vida, el bienestar y la sustentabilidad del territorio.]             
+            .row.justify-content-center.align-items-center.mb-4.mt-5
+              .col-lg-10.mb-lg-0.mt-lg-1.mt-5
+                p.justify-content-center.mt-5 #[b Los procesos participativos por ende promueven el conocimiento del riesgo de desastres que se ve traducido en la implementación de acciones de prevención y mitigación del riesgo para disminuir su vulnerabilidad frente a estos y permitan que la comunidad pueda satisfacer sus necesidades, mejorar su calidad de vida, el bienestar y la sustentabilidad del territorio.]             
 
         .row.justify-content-around.mt-5
           .col-lg-11.mb-lg-0.mt-lg-1
@@ -97,6 +101,9 @@
     
     figure
       img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-02.svg").tema1-decorativa-02  
+    
+    figure
+      img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-07.svg").tema1-decorativa-10
 
     .row.justify-content-around
       .col-lg-10.mb-lg-0.mt-lg-3
@@ -321,7 +328,7 @@
           img(src='@/assets/curso/temas/tema1/tema1-img-31.svg' alt='AvatarTop')
           .tarjeta.color_secundario.p-4               
             h3.text-center Unidad Nacional para la Gestión del Riesgo de Desastres
-            p.text-center Encargada de la coordinación del Sistema Nacional y dirección de la implementación de la Gestión del Riesgo, 
+            p.text-center Encargada de la coordinación del Sistema Nacional y dirección de la implementación de la Gestión del Riesgo. 
         .tarjeta--avatar
           img(src='@/assets/curso/temas/tema1/tema1-img-32.svg' alt='AvatarTop')
           .tarjeta.color_secundario.p-4               
@@ -376,14 +383,14 @@
               figure
                 img(src="@/assets/curso/temas/tema1/tema1-img-38.svg", alt="alt").img100
             .col-9
-              p #[b Aprobación:] La entidad encargada de la aprobación del PNGRD es el Consejo Nacional de Gestión del Riesgo.
+              p #[b Aprobación:] la entidad encargada de la aprobación del PNGRD es el Consejo Nacional de Gestión del Riesgo.
         .crd.crd--avatarHorizontal.crd--last.py-4
           .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/temas/tema1/tema1-img-39.svg", alt="alt").img100
             .col-9
-              p #[b Adopción:] La adopción del PNGRD deberá hacerse a través de Decreto expedido por el presidente de la República.
+              p #[b Adopción:] la adopción del PNGRD deberá hacerse a través de Decreto expedido por el presidente de la República.
 
     p.mt-5.mb-4 Adicional a la Ley 1523 de 2012, el SNGRD se encuentra soportado por los siguientes instrumentos normativos.
     

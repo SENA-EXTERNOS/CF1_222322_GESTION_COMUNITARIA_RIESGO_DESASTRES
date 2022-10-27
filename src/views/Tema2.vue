@@ -27,7 +27,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10
         figure(data-aos="fade-up")
-          img(src="@/assets/curso/temas/tema2/tema2-img-02.svg") 
+          img(src="@/assets/curso/temas/tema2/tema2-img-02.png") 
     
     img(src="@/assets/curso/temas/tema2/tema2-img-decorativa-02.svg").tema2-decorativa-02
 
@@ -64,7 +64,6 @@
       .py-4.py-md-5(titulo="Pre-Desastre" :icono="require('@/assets/curso/temas/tema2/tema2-img-08.svg')")
         .row
           .col-md-12-1.mb-4.mb-md-0
-            h4.mb-4 Pre-Desastre
             p.mb-0 #[b Actividades de desarrollo en curso] - Aspectos vigentes de la GRD en los programas de desarrollo.
             p.mb-0 #[b Evaluación de riesgo] - Proceso de diagnóstico para identificar los riesgos que enfrenta una comunidad.
             p.mb-0 #[b Prevención] - Actividades para evitar el impacto adverso de las amenazas. 
@@ -75,7 +74,6 @@
       .py-4.py-md-5(titulo="Respuesta frente al Desastre  " :icono="require('@/assets/curso/temas/tema2/tema2-img-09.svg')")
         .row
           .col-md-12-1.mb-4.mb-md-0
-            h4.mb-4 Respuesta frente al Desastre
             p.mb-0 #[b Evacuación] - Partida masiva temporal de personas y propiedad desde l os lugares amenazados.
             p.mb-0 #[b Salvar personas y medios de vida] -  Protección de personas y medios de vida durante la emergencia
             p.mb-0 #[b Socorro inmediato] - Provisión de ayuda durante o inmediatamente después del desastre.
@@ -84,7 +82,6 @@
       .py-4.py-md-5(titulo="Post-Desastre" :icono="require('@/assets/curso/temas/tema2/tema2-img-10.svg')")
         .row
           .col-md-12-1.mb-4.mb-md-0
-            h4.mb-4 Post-Desastre
             p.mb-0 #[b Ayuda en curso] - Ayuda continua hasta un cierto nivel de recuperación.
             p.mb-0 #[b Recuperación] - Acciones tomadas después de un desastre con el objetivo de restablecer la infraestructura y los servicios.
             p.mb-0 #[b Reconstrucción] -  Acciones tomadas después de un desastre para asegurar la reubicación/reasentamiento.
