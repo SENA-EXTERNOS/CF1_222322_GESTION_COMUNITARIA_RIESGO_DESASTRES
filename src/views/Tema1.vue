@@ -7,19 +7,18 @@
         span 1
       h1 Marco normativo de la gestión del riesgo de desastres
 
-    .row.justify-content-around.aling-items-center.mt-5
-      .col-lg-12.mb-lg-0
-        .bloque-texto-g.p-3.p-sm-4.p-md-5(data-aos="fade-up")
-          .bloque-texto-g__img1(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-img-01.svg')})`}"
-          )
-          .bloque-texto-g__texto1.p-4
-           p.mb-0 La Tierra es un sistema que cambia y evoluciona.  El agua y las placas tectónicas se mueven y el aire se encuentra en circulación; mientras el planeta circula alrededor del sol y la luna rodea la tierra; cada una de las interacciones de diversos fenómenos se manifiestan a través de la formación de la lluvia, mareas, vientos, sequías, sistemas montañosos, valles. La transformación de la humanidad ha producido que el hombre tenga mayores interacciones con estos fenómenos naturales y ante el crecimiento poblacional, las consecuencias de estas interacciones son más severas y promueven el cambio del territorio en el corto, mediano y largo plazo.
-         
+    .bloque-texto-g.color-secundario.background-tema1.p-3.p-sm-4.p-md-5(data-aos="fade-up")
+      .row
+        .col-lg-4
+            img(src="@/assets/curso/temas/tema1/tema1-img-01-1.svg")
+        .col-lg-8  
+          .tema-1.txt1
+            p.mb-0 La Tierra es un sistema que cambia y evoluciona.  El agua y las placas tectónicas se mueven y el aire se encuentra en circulación; mientras el planeta circula alrededor del sol y la luna rodea la tierra; cada una de las interacciones de diversos fenómenos se manifiestan a través de la formación de la lluvia, mareas, vientos, sequías, sistemas montañosos, valles. La transformación de la humanidad ha producido que el hombre tenga mayores interacciones con estos fenómenos naturales y ante el crecimiento poblacional, las consecuencias de estas interacciones son más severas y promueven el cambio del territorio en el corto, mediano y largo plazo.
+
     figure
       img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-06.svg").tema1-decorativa-06
 
-    .row.justify-content-around
+    .row.justify-content-around.mt-5
       .col-lg-10.mb-lg-0.mt-lg-1
         .row.mb-4
           .col-lg-4.justify-content-up.align-items-center

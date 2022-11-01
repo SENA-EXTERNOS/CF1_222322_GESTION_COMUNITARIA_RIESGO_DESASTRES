@@ -6,16 +6,14 @@
       .titulo-principal__numero
         span 2
       h1 Marco conceptual en la gestión del riesgo de desastres
-
-    .row.justify-content-around.aling-items-center.mb-1
-      .col-lg-12.mb-lg-0
-        .bloque-texto-g.p-3.p-sm-4.p-md-5(data-aos="fade-up")
-          .bloque-texto-g__img1-2(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/tema2-img-01.svg')})`}"
-          )
-          .bloque-texto-g__texto1-2.p-4
-           p.mb-0 Al trabajar la Gestión del Riesgo de Desastres (GRD) en el marco de la gestión de procesos permite que se pueda controlar y dar seguimiento transversal de los riesgos y permite la inclusión de capacidades y acciones que articulan de forma integral a aquellas entidades pertenecientes al SNGRD. Además, promueve una transformación en la forma de afrontar los problemas relacionados con los desastres.
     
+    .bloque-texto-g.color-secundario.background-tema2-1.p-3.p-sm-4.p-md-5(data-aos="fade-up")
+      .row
+        .col-lg-4
+            img(src="@/assets/curso/temas/tema2/tema2-img-01-1.svg")
+        .col-lg-8  
+          .tema-2.txt1
+            p.mb-0 Al trabajar la Gestión del Riesgo de Desastres (GRD) en el marco de la gestión de procesos permite que se pueda controlar y dar seguimiento transversal de los riesgos y permite la inclusión de capacidades y acciones que articulan de forma integral a aquellas entidades pertenecientes al SNGRD. Además, promueve una transformación en la forma de afrontar los problemas relacionados con los desastres.
     
     .row.mt-2
       p.mt-5.mb-5 La Gestión del Riesgo de Desastres (GRD) está fundamentada en el conocimiento del riesgo, para con ello diseñar las acciones prospectivas y de corrección del riesgo basadas en información real y verificable. Además, fortalece el tratamiento y manejo de desastres, el cual no sólo se limita a la atención y a la respuesta, sino a una recuperación que no solo llegue a replicar las condiciones preexistentes al desastre, sino que promuevan la transformación del escenario de riesgo y permita que el territorio sea seguro y ambientalmente sostenible.
@@ -116,15 +114,14 @@
                   p.mt-4 Fortalecimiento de la preparación ante desastres permiten la efectiva respuesta a estos.
                 li
                   p
-    .row.justify-content-around.aling-items-center.mb-5.mt-5
-      .col-lg-12.mb-lg-0
-        .bloque-texto-g.p-3.p-sm-4.p-md-5(data-aos="fade-up")
-          .bloque-texto-g__img6(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/tema2-img-11.svg')})`}"
-          )
-          .bloque-texto-g__texto6.p-4
-           p.mb-0 Sin embargo, el Marco de Sendái, establece 7 objetivos fundamentados en la prevención y reducción de los impactos o consecuencias por los desastres de origen natural o antropogénico, asimismo, es la herramienta centrada en el cumplimiento de los objetivos de desarrollo sostenible (ODS). Promoviendo la transformación del paradigma del conocimiento del riesgo de desastres y su enfoque en la gestión de estos en el entorno ambiental, social y económico.
-
+    .bloque-texto-g.color-primario.background-tema2-2.p-3.p-sm-4.p-md-5(data-aos="fade-up")
+      .row
+        .col-lg-4
+          .tema-2.img2
+            img(src="@/assets/curso/temas/tema2/tema2-img-11-1.svg")
+        .col-lg-8  
+          .tema-2.txt2
+            p.mb-0 Sin embargo, el Marco de Sendái, establece 7 objetivos fundamentados en la prevención y reducción de los impactos o consecuencias por los desastres de origen natural o antropogénico, asimismo, es la herramienta centrada en el cumplimiento de los objetivos de desarrollo sostenible (ODS). Promoviendo la transformación del paradigma del conocimiento del riesgo de desastres y su enfoque en la gestión de estos en el entorno ambiental, social y económico.
     
     .row.align-items-center.mt-5
       .col-lg-8
