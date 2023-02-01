@@ -13,9 +13,11 @@
           figure
             img(src="@/assets/template/arrastrar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
-        .titulo-segundo.color-primario
+        .titulo-segundo.color-acento-contenido
           h2 Emparejamiento entre término y definición.
-        p.mb-5 Esta actividad permitirá retomar los principales conceptos desarrollados durante el componente formativo. El propósito consiste en relacionar cada sigla con su respectivo significado.
+        p Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
+
+        p De acuerdo con la definición planteada en la columna izquierda, arrastre cada término al lugar que considere correcto de la columna derecha:
         .tarjeta.actividad.p-3.mt-4
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

@@ -7,13 +7,15 @@
         span 1
       h1 Marco normativo de la gestión del riesgo de desastres
 
-    .bloque-texto-g.color-secundario.background-tema1.p-3.p-sm-4.p-md-5(data-aos="fade-up")
+    .bloque-texto-g.color-secundario.background-tema1.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-up")
       .row
         .col-lg-4
             img(src="@/assets/curso/temas/tema1/tema1-img-01-1.svg")
         .col-lg-8  
           .tema-1.txt1
             p.mb-0 La Tierra es un sistema que cambia y evoluciona.  El agua y las placas tectónicas se mueven y el aire se encuentra en circulación; mientras el planeta circula alrededor del sol y la luna rodea la tierra; cada una de las interacciones de diversos fenómenos se manifiestan a través de la formación de la lluvia, mareas, vientos, sequías, sistemas montañosos, valles. La transformación de la humanidad ha producido que el hombre tenga mayores interacciones con estos fenómenos naturales y ante el crecimiento poblacional, las consecuencias de estas interacciones son más severas y promueven el cambio del territorio en el corto, mediano y largo plazo.
+
+    p.mb-5 Colombia no está exenta de las consecuencias derivadas de un fenómeno de origen natural o antropogénico que se visualizan notoriamente en la seguridad y calidad de vida de la población; veamos los siguientes datos importantes:
 
     figure
       img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-06.svg").tema1-decorativa-06
@@ -42,9 +44,9 @@
                 p Dadas estas condiciones, en esta región se han presentado variadas y constantes emergencias y desastres de gran magnitud (Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD), 2019). 
 
         .cajon.color-acento-botones2.p-4
-          p Asimismo, las comunidades en su proceso de asentamiento y desarrollo transforman el entorno físico e impactan las dinámicas naturales del territorio, el cual influye en las condiciones sociales, económicas, culturales y políticas. #[b Siendo estas interacciones socioeconómicas y ambientales las que aumentan la vulnerabilidad de las comunidades frente al riesgo de desastres, el cual se configura de manera individual y colectiva.] Por esta razón, la sociedad se constituye como el núcleo fundamental para comprender dichos riesgos, reducir sus efectos sobre la población, y responder de manera efectiva cuando estos se materialicen.
+          p Asimismo, las comunidades en su proceso de asentamiento y desarrollo transforman el entorno físico e impactan las dinámicas naturales del territorio, el cual influye en las condiciones sociales, económicas, culturales y políticas. Siendo estas interacciones socioeconómicas y ambientales las que aumentan la vulnerabilidad de las comunidades frente al riesgo de desastres, el cual se configura de manera individual y colectiva. Por esta razón, la sociedad se constituye como el núcleo fundamental para comprender dichos riesgos, reducir sus efectos sobre la población, y responder de manera efectiva cuando estos se materialicen.
 
-        p.mt-5 Es importante tener en cuenta las siguientes consideraciones con relación a la Gestión del Riesgo de Desastres.      
+        p.mt-5 Es importante tener en cuenta las siguientes consideraciones, con relación a la Gestión del Riesgo de Desastres:     
 
         ImagenInfograficaB.color-primario
           template(v-slot:imagen)
@@ -70,7 +72,7 @@
               .bloque-texto-g__texto2.p-4
                 p.mb-0 Por ello, la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) diseñó la estrategia #[b “Comunidades Unidas para la Gestión de Riesgo de Desastres” o “Resiliencia Comunitaria en Gestión del Riesgo de Desastres” (COMUNGERD)], estrategia que se fundamenta en la gestión del riesgo a través de una Red Nacional. Esta red tiene la función de construir territorios sustentables, resilientes y seguros por medio de espacios de participación, intercambio de conocimientos y concertación comunitaria (Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD), s.f.).
         
-        p.mt-5.mb-5 COMUNGERD, es una estrategia fundamentada en establecer espacios de participación y concertación comunitaria en país en aras de promover el conocimiento del riesgo para con ello diseñar estrategias de prevención y mitigación del riesgo de desastres según las particularidades del territorio y la comunidad, esta estrategia tiene los siguientes objetivos.
+        p.mt-5.mb-5 COMUNGERD, es una estrategia fundamentada en establecer espacios de participación y concertación comunitaria en el país, en aras de promover el conocimiento del riesgo para diseñar estrategias de prevención y mitigación del riesgo de desastres, según las particularidades del territorio y la comunidad; esta estrategia tiene los siguientes objetivos:
 
     .tarjeta.color-secundario.p-8.p-md-5.mb-5  
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
@@ -165,7 +167,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido.mt-5
       h2 1.2 Normativa en ordenamiento territorial    
 
-    p.mb-5.mt-3 La ordenación territorial en Colombia se encuentra regulada por la Ley 152 de 1994 y la Ley 388 de 1997, esta Ley establece el proceso que guía el crecimiento territorial y regula el uso, modificación y apropiación de cualquier espacio. Para lograr este objetivo, se crearon los planes de ordenamiento territorial como la herramienta de orientación y administración del desarrollo y el uso de los espacios y el suelo, estos planes de ordenamiento territorial son llamados POT y se nombran según el número de habitantes de cada municipio así.  
+    p.mb-5.mt-3 La ordenación territorial en Colombia, se encuentra regulada por la Ley 152 de 1994 y la Ley 388 de 1997; estas leyes establecen el proceso que guía el crecimiento territorial y regula el uso, modificación y apropiación de cualquier espacio. Para lograr este objetivo, se crearon planes como la herramienta de orientación y administración del desarrollo y el uso de los espacios y el suelo; estos planes de ordenamiento territorial, son llamados POT y se nombran según la cantidad de habitantes en cada municipio, así: 
     
     .row
       .col-sm-6.col-xl-3-1.mb-4.mb-xl-5
@@ -191,7 +193,7 @@
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-img-16.svg')})`}")
 
     .row.mt-5
-      p.mb-3.mt-5 Para la realización del POT la ley 388 de 1997 define cuatro tipos de determinantes.
+      p.mb-3.mt-5 Para la realización del POT la Ley 388 de 1997, define cuatro tipos de determinantes:
 
     img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-06.svg").tema1-decorativa-07
 
@@ -227,7 +229,7 @@
               h3.mt-5 Tipo 4
               p Relacionada con las áreas metropolitanas y las normas creadas para lograr metas de desarrollo.
 
-    p.mt-3.mb-3 Sin embargo, la planeación del territorio que se práctica desde los últimos 50 años en el país se ha desarrollado por medio de los siguientes instrumentos del marco normativo.
+    p.mt-3.mb-3 Sin embargo, la planeación del territorio que se practica desde los últimos 50 años en el país, se ha desarrollado por medio de los siguientes instrumentos del marco normativo:
 
     h4.mt-3.mb-3 Instrumentos del marco normativo para la gestión territorial
 
@@ -244,7 +246,7 @@
               td Establece las reglas y criterios para organizar los municipios y determina las funciones del concejo y la personería.
             tr
               th Ley 1551 de 2012
-              td Esta ley tiene por objeto modernizar la normativa relacionada con el régimen municipal, dentro de la autonomía que reconoce a los municipios la constitución y la ley, como instrumento de gestión para cumplir sus competencias y funciones. Modifica los criterios de categorización y los requisitos para la creación de los municipios
+              td Esta ley tiene por objeto modernizar la normativa relacionada con el régimen municipal, dentro de la autonomía que reconoce, a los municipios, a la constitución y a la ley, como instrumentos de gestión para cumplir sus competencias y funciones. Modifica los criterios de categorización y los requisitos para la creación de los municipios.
             tr
               th Ley 1617 de 2013
               td Contiene las disposiciones que conforman el Estatuto Político, Administrativo y Fiscal de los distritos.
@@ -303,18 +305,19 @@
       .col-lg-7
         p.mb-3 Las bases legales del Sistema Nacional de Prevención y Atención de Desastres (SNPAD) fueron modificadas conforme a la adopción de la Ley 1523 de 2012, ley que creó el Sistema Nacional de Gestión del Riesgo de Desastres (SNGRD) y se adoptó la política pública en GRD.
         p.mb-5 El SNGRD está conformado por organizaciones de índole nacional de carácter comunitario, público y privado que articuladas con las normas y directrices ejecutan acciones frente a la gestión del riesgo de desastres con el fin de proteger la integridad, seguridad, bienestar y calidad de vida de la población colombiana.
-        p #[b La Ley 1523 de 2012 se encuentra estructurada en ocho capítulos, divididos de la siguiente manera.]
       .col-lg-5
         .row.justify-content-center.align-items-center.mb-4
           .col-lg-12
             figure
               img(src="@/assets/curso/temas/tema1/tema1-img-21.svg") 
 
+    p.mb-5 La Ley 1523 del 2012 se encuentra estructurada en ocho capítulos, divididos de la siguiente manera:
+
     LineaTiempoIcon.mb-5(:datos="datosLineaTiempoIcon")
     
-    .row.justify-content-around.mt-5.mb-5
-      .col-lg-9.mb-lg-0.mt-lg-3        
-        p.mt-3 Por otro lado, el SNGRD se compone por seis (&) organizaciones encargadas de orientar, coordinar y ejecutar diversas acciones orientadas a la gestión del riesgo de desastres, las cuales son (Unidad Nacional para la Gestión del Riesgo de Desastres, 2022).
+    .row.mt-5.mb-5
+      .col-lg-12.mb-lg-0.mt-lg-3        
+        p.mt-3 Por otro lado, el SNGRD se compone de seis (6) organizaciones encargadas de orientar, coordinar y ejecutar, diversas acciones orientadas hacia la gestión del riesgo de desastres; estas son (Unidad Nacional para la Gestión del Riesgo de Desastres, 2022):
 
     .tarjeta.color-secundario.p-8.p-md-5.mb-5  
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
@@ -363,7 +366,7 @@
     
     img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-02.svg").tema1-decorativa-09
 
-    p.mt-5.mb-5 La actualización del PNGRD se debe realizar siguiendo las fases establecidas en el Decreto 1081 de 2015 las cuales son.
+    p.mt-5.mb-5 La actualización del PNGRD se debe realizar siguiendo las fases establecidas en el Decreto 1081 del 2015, las cuales son:
 
     img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-06.svg").tema1-decorativa-08
 
@@ -391,7 +394,7 @@
             .col-9
               p #[b Adopción:] la adopción del PNGRD deberá hacerse a través de Decreto expedido por el presidente de la República.
 
-    p.mt-5.mb-4 Adicional a la Ley 1523 de 2012, el SNGRD se encuentra soportado por los siguientes instrumentos normativos.
+    p.mt-5.mb-4 Adicional a la Ley 1523 del 2012, el SNGRD se encuentra soportado por los siguientes instrumentos normativos:
     
     .row.justify-content-around
       .col-lg-8.mb-lg-0.mt-lg-3

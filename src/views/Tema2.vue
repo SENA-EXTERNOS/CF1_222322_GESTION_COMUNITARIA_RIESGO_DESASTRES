@@ -16,7 +16,9 @@
             p.mb-0 Al trabajar la Gestión del Riesgo de Desastres (GRD) en el marco de la gestión de procesos permite que se pueda controlar y dar seguimiento transversal de los riesgos y permite la inclusión de capacidades y acciones que articulan de forma integral a aquellas entidades pertenecientes al SNGRD. Además, promueve una transformación en la forma de afrontar los problemas relacionados con los desastres.
     
     .row.mt-2
-      p.mt-5.mb-5 La Gestión del Riesgo de Desastres (GRD) está fundamentada en el conocimiento del riesgo, para con ello diseñar las acciones prospectivas y de corrección del riesgo basadas en información real y verificable. Además, fortalece el tratamiento y manejo de desastres, el cual no sólo se limita a la atención y a la respuesta, sino a una recuperación que no solo llegue a replicar las condiciones preexistentes al desastre, sino que promuevan la transformación del escenario de riesgo y permita que el territorio sea seguro y ambientalmente sostenible.
+      p.mt-5 La Gestión del Riesgo de Desastres (GRD) está fundamentada en el conocimiento del riesgo, para con ello diseñar las acciones prospectivas y de corrección del riesgo basadas en información real y verificable. Además, fortalece el tratamiento y manejo de desastres, el cual no sólo se limita a la atención y a la respuesta, sino a una recuperación que no solo llegue a replicar las condiciones preexistentes al desastre, sino que promuevan la transformación del escenario de riesgo y permita que el territorio sea seguro y ambientalmente sostenible.
+
+      p.mb-5 Adicional a la Ley 1523 del 2012, el SNGRD se encuentra soportado por los siguientes instrumentos normativos:
 
     .row.justify-content-center.align-items-center
       .col-lg-6.mb-lg-0.mt-lg-3
@@ -136,7 +138,9 @@
     .row.justify-content-around.aling-items-center.mb-5
       .col-lg-11
         .col-lg-12
-          p Asimismo, busca la prevención de la materialización de nuevos riesgos de desastres y la reducción de los existentes a través de la implementación de acciones de índole económico, estructural, jurídico, social, sanitario, cultural, educativo, ambiental, tecnológico, político e institucional que prevengan y reduzcan el nivel de exposición a las amenazas y la vulnerabilidad a los desastres y aumenten la preparación para la respuesta y la recuperación del territorio.           
+          p Asimismo, busca la prevención de la materialización de nuevos riesgos de desastres y la reducción de los existentes a través de la implementación de acciones de índole económico, estructural, jurídico, social, sanitario, cultural, educativo, ambiental, tecnológico, político e institucional que prevengan y reduzcan el nivel de exposición a las amenazas y la vulnerabilidad a los desastres y aumenten la preparación para la respuesta y la recuperación del territorio.      
+
+    p A continuación, visualice el video que le ayudará a profundizar acerca de metas mundiales y áreas de acción, del Marco de Sendai:
 
     img(src="@/assets/curso/temas/tema2/tema2-img-decorativa-04.svg").tema2-decorativa-04
 
@@ -150,7 +154,7 @@
       h2 2.2 Instrumentos de seguimiento de los procesos clave de la gestión del riesgo de desastres
     
     p.mt-5 El análisis exhaustivo de la GRD contribuye con la evaluación y la consolidación de las capacidades de las organizaciones y comunidades con el fin de lograr cumplir las metas mundiales del Marco Sendái acciones que son afines a los lineamientos del desarrollo sostenible. 
-    p.mt-5 La GRD y el desarrollo sostenible son conceptos complementarios para la planeación del territorio y dicha complementariedad se visualiza en los ejemplos a continuación.
+    p La GRD y el desarrollo sostenible, son conceptos complementarios para la planeación del territorio y dicha complementariedad se visualiza en los ejemplos a continuación:
 
     .row.align-items-up.mt-5
       .col-lg-5
@@ -171,7 +175,7 @@
     .row.justify-content-around.aling-items-center.mt-4
       .col-lg-9
         .cajon.color--primario.p-4
-          p Hemos llegado al final de este componente formativo.  Recuerde explorar los demás recursos que se encuentran disponibles, para ello diríjase al menú principal en donde encontrará la síntesis, una actividad didáctica, material complementario, entre otros. 
+          p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 </template>
 

@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Marco normativo y conceptual de la gestión del riesgo de desastres',
     descripcionCurso:
-      'En este componente formativo podrá reconocer el marco normativo y conceptual aplicable a la gestión del riesgo de desastres y podrá comprenderlo como un proceso social que puede ser desarrollado de manera organizada y coherente a través de métodos participativos concertados con las comunidades.',
+      'Se podrá reconocer el marco normativo y conceptual aplicable a la gestión del riesgo de desastres y también comprenderlo como un proceso social, que puede ser desarrollado, de manera organizada y coherente, a través de métodos participativos con las comunidades, con el fin de entender y reducir el riesgo, preparar y atender, oportunamente, un desastre por parte de la comunidad, para la construcción de territorios más seguros, sostenibles y resilientes.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
