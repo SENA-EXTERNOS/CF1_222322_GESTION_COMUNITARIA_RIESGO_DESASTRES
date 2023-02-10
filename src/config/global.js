@@ -133,7 +133,7 @@ export default {
     {
       tema: 'Marco normativo de la gestión del riesgo de desastres.',
       referencia:
-        'Cruz Roja Colombiana Seccional Antioquia. (15 de diciembre de 2015). Educando en Gestión del Riesgo de Desastres.',
+        'Cruz Roja Colombiana Seccional Antioquia. (15 de diciembre de 2015). <em>Educando en Gestión del Riesgo de Desastres.</em>',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=8j2tdIhaZPA&ab_channel=CruzRojaColombianaSeccionalAntioquia',
@@ -141,7 +141,7 @@ export default {
     {
       tema: 'Marco normativo de la gestión del riesgo de desastres.',
       referencia:
-        'Unidad Nacional de Gestión del Riesgo de Desastres (UNGRD). (8 de julio de 2019). Comunidades Unidas en Gestión del Riesgo de Desastres.',
+        'Unidad Nacional de Gestión del Riesgo de Desastres (UNGRD). (8 de julio de 2019). <em>Comunidades Unidas en Gestión del Riesgo de Desastres.</em>',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=1xdhPbXw404&ab_channel=UNGRDGesti%C3%B3ndelRiesgodeDesastres',
@@ -149,7 +149,7 @@ export default {
     {
       tema: 'Normativa del sector ambiental.',
       referencia:
-        'Programa de las Naciones Unidas para el Desarrollo. (18 de octubre de 2016). Introducción Curso en Gestión del riesgo de desastres para autoridades ambientales.',
+        'Programa de las Naciones Unidas para el Desarrollo. (18 de octubre de 2016). <em>Introducción Curso en Gestión del riesgo de desastres para autoridades ambientales.</em>',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=tjQl665fCrM&ab_channel=PNUDEquipodegesti%C3%B3ndeconocimiento',
@@ -157,7 +157,7 @@ export default {
     {
       tema: 'Normativa del sector ambiental.',
       referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible (MADS). (s.f.). Enfoque de Reducción de Riesgo de Desastres basado en Ecosistemas (ECO RRD). ',
+        'Ministerio de Ambiente y Desarrollo Sostenible (MADS). (s.f.). <em>Enfoque de Reducción de Riesgo de Desastres basado en Ecosistemas (ECO RRD).</em> ',
       tipo: 'Documento',
       link:
         'https://www.minambiente.gov.co/wp-content/uploads/2021/12/DOC-Conceptual_metodologicoEco-RRD_2021_comp.pdf',
@@ -173,21 +173,21 @@ export default {
     {
       tema: 'Normativa en gestión del riesgo de desastres.',
       referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres - Sistema Nacional de Gestión del Riego de Desastres. (2022).<i>Actualización Plan Nacional de Gestión del Riesgo de Desastres "Una estrategia de desarrollo"</i> 2015 - 2030. Colombia.',
+        'Unidad Nacional para la Gestión del Riesgo de Desastres - Sistema Nacional de Gestión del Riego de Desastres. (2022). <i>Actualización Plan Nacional de Gestión del Riesgo de Desastres "Una estrategia de desarrollo"</i> 2015 - 2030. Colombia.',
       tipo: 'Documento',
       descarga: '/downloads/anexo3.pdf',
     },
     {
       tema: 'Elementos marco del riesgo de desastres.',
       referencia:
-        'Organización de las Naciones Unidas. (22 de octubre de 2015). Marco de Sendái para la Reducción del Riesgo de Desastres 2015-2030. Nueva York',
+        'Organización de las Naciones Unidas. (22 de octubre de 2015). <em>Marco de Sendái para la Reducción del Riesgo de Desastres 2015-2030. Nueva York.</em>',
       tipo: 'Documento',
       link: 'https://www.preventionweb.net/files/resolutions/N1516720.pdf',
     },
     {
       tema: 'Elementos marco del riesgo de desastres.',
       referencia:
-        'Organización de las Naciones Unidas. (2022). Objetivos y Metas de Desarrollo Sotenible.',
+        'Organización de las Naciones Unidas. (2022). <em>Objetivos y Metas de Desarrollo Sotenible.</em>',
       tipo: 'Pagina Web',
       link:
         'https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/',
@@ -195,18 +195,10 @@ export default {
     {
       tema: 'Elementos marco del riesgo de desastres.',
       referencia:
-        'Organización de las Naciones Unidas para la Cultura, las Ciencias y la Educación (UNESCO). (26 de enero de 2017). Los objetivos de Desarrollo Sostenible qué son y cómo alcanzarlos',
+        'Organización de las Naciones Unidas para la Cultura, las Ciencias y la Educación (UNESCO). (26 de enero de 2017). <em>Los objetivos de Desarrollo Sostenible qué son y cómo alcanzarlos.</em>',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=MCKH5xk8X-g&ab_channel=UNESCOenespa%C3%B1ol',
-    },
-    {
-      tema:
-        'Instrumentos de seguimiento de los procesos clave de la gestión del riesgo de desastres.',
-      referencia:
-        'Organización de las Naciones Unidas. (22 de octubre de 2015). Marco de Sendái para la Reducción del Riesgo de Desastres 2015-2030. Nueva York',
-      tipo: 'Documento',
-      link: 'https://www.preventionweb.net/files/resolutions/N1516720.pdf',
     },
   ],
   glosario: [
@@ -264,7 +256,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Baas, S., Ramasamy, S., Dey de Pryck, J., & Battista, F. (2009). Análisis de Sistemas de Gestión del Riesgo de Desastres. Una Guía. Roma, Italia: Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO).',
+        'Baas, S., Ramasamy, S., Dey de Pryck, J., & Battista, F. (2009). <em>Análisis de Sistemas de Gestión del Riesgo de Desastres. Una Guía</em>. Roma, Italia: Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO).',
     },
     {
       referencia:
@@ -272,44 +264,39 @@ export default {
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_1523_2012.html',
     },
+
     {
       referencia:
-        'Cruz Roja Colombiana Seccional Antioquia. (15 de diciembre de 2015). Educando en Gestión del Riesgo de Desastres',
-      link:
-        'https://www.youtube.com/watch?v=8j2tdIhaZPA&ab_channel=CruzRojaColombianaSeccionalAntioquia',
-    },
-    {
-      referencia:
-        'Departamento Administrativo Nacional de Estadística (DANE). (s.f.). Censo Nacional de Población y Vivienda 2018',
+        'Departamento Administrativo Nacional de Estadística (DANE). (s.f.). Censo Nacional de Población y Vivienda 2018.',
       link:
         'https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/censo-nacional-de-poblacion-y-vivenda-2018',
     },
     {
       referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible (MADS). (s.f.). Cambio Climático y Gestión del Riesgo',
+        'Ministerio de Ambiente y Desarrollo Sostenible (MADS). (s.f.). Cambio Climático y Gestión del Riesgo.',
       link:
         'https://www.minambiente.gov.co/cambio-climatico-y-gestion-del-riesgo/',
     },
     {
       referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible (MADS). (s.f.). La Relación entre la Gestión del Riesgo de Desastres y el Cambio Climático',
+        'Ministerio de Ambiente y Desarrollo Sostenible (MADS). (s.f.). <em>La Relación entre la Gestión del Riesgo de Desastres y el Cambio Climático.</em>',
       link:
         'https://www.minambiente.gov.co/cambio-climatico-y-gestion-del-riesgo/la-relacion-entre-la-gestion-del-riesgo-de-desastres-y-el-cambio-climatico/',
     },
     {
       referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). (2019). Atlas de Riesgo de Colombia: revelando los desastres latentes. Bogotá, Colombia',
+        'Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). (2019). <em>Atlas de Riesgo de Colombia: revelando los desastres latentes</em>. Bogotá, Colombia.',
       link:
         'https://repositorio.gestiondelriesgo.gov.co/handle/20.500.11762/27179',
     },
     {
       referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres. (2022). Normatividad Sistema Nacional de Gestión del Riego de Desastres',
+        'Unidad Nacional para la Gestión del Riesgo de Desastres. (2022). <em>Normatividad Sistema Nacional de Gestión del Riego de Desastres.</em>',
       link: 'https://portal.gestiondelriesgo.gov.co/Paginas/Normatividad.aspx',
     },
     {
       referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres. (2022). Sistema Nacional de Gestión del Riesgo de Desastres.',
+        'Unidad Nacional para la Gestión del Riesgo de Desastres. (2022). <em>Sistema Nacional de Gestión del Riesgo de Desastres.</em>',
       link: 'https://portal.gestiondelriesgo.gov.co/Paginas/Estructura.aspx ',
     },
   ],

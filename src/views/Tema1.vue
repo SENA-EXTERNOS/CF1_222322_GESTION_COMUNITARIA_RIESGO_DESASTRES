@@ -48,20 +48,16 @@
 
         p.mt-5 Es importante tener en cuenta las siguientes consideraciones, con relación a la Gestión del Riesgo de Desastres:     
 
-        ImagenInfograficaB.color-primario
+        ImagenInfografica.color-primario
           template(v-slot:imagen)
             figure(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema1/tema1-img-03.svg', alt='Texto que describa la imagen')
 
-          div(x="25.5%" y="40.5%" tooltip="Ver más")
-            .row.justify-content-center.align-items-center.mb-4.mt-5
-              .col-lg-10.mb-lg-0.mt-lg-1.mt-5
-                p.justify-content-center.mt-5 #[b Para adelantar acciones que promuevan la GRD en el territorio es necesario el compromiso, el conocimiento de la normativa aplicable, el liderazgo y la motivación de la comunidad ya que este no es un proceso individual, sino que conlleva la participación concertada de la comunidad, con aras de generar la movilización social para reducir el riesgo, y con ello los desastres.]             
+          .tarjeta.color-secundario.p-3(x="24.8%" y="40.5%" numero="1")
+            p.mb-0 #[b Para adelantar acciones que promuevan la GRD en el territorio es necesario el compromiso, el conocimiento de la normativa aplicable, el liderazgo y la motivación de la comunidad ya que este no es un proceso individual, sino que conlleva la participación concertada de la comunidad, con aras de generar la movilización social para reducir el riesgo, y con ello los desastres.]             
 
-          div(x="70.5%" y="28.5%" tooltip="Ver más")
-            .row.justify-content-center.align-items-center.mb-4.mt-5
-              .col-lg-10.mb-lg-0.mt-lg-1.mt-5
-                p.justify-content-center.mt-5 #[b Los procesos participativos por ende promueven el conocimiento del riesgo de desastres que se ve traducido en la implementación de acciones de prevención y mitigación del riesgo para disminuir su vulnerabilidad frente a estos y permitan que la comunidad pueda satisfacer sus necesidades, mejorar su calidad de vida, el bienestar y la sustentabilidad del territorio.]             
+          .tarjeta.color-secundario.p-3(x="69.5%" y="28.5%" numero="2")
+            p.mb-0 #[b Los procesos participativos por ende promueven el conocimiento del riesgo de desastres que se ve traducido en la implementación de acciones de prevención y mitigación del riesgo para disminuir su vulnerabilidad frente a estos y permitan que la comunidad pueda satisfacer sus necesidades, mejorar su calidad de vida, el bienestar y la sustentabilidad del territorio.]             
 
         .row.justify-content-around.mt-5
           .col-lg-11.mb-lg-0.mt-lg-1
@@ -74,8 +70,8 @@
         
         p.mt-5.mb-5 COMUNGERD, es una estrategia fundamentada en establecer espacios de participación y concertación comunitaria en el país, en aras de promover el conocimiento del riesgo para diseñar estrategias de prevención y mitigación del riesgo de desastres, según las particularidades del territorio y la comunidad; esta estrategia tiene los siguientes objetivos:
 
-    .tarjeta.color-secundario.p-8.p-md-5.mb-5  
-      SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+    .tarjeta.color-secundario.p-8.p-md-5.mb-5
+      SlyderF(columnas="col-lg-6 col-xl-4")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/tema1-img-05.svg' alt='AvatarTop')
           .tarjeta.color--secundario.p-4
@@ -97,8 +93,8 @@
           .tarjeta.color--secundario.p-4               
             p.text-center.mt-5 #[b Impulsar la articulación de otros instrumentos de planificación territorial y de gestión del riesgo de desastres.]            
     
-    #t_1_1.titulo-segundo.color-acento-contenido.mt-5
-      h2 1.1 Normativa del sector ambiental        
+    #t_1_1.titulo-segundo.color-acento-contenido
+      h2.mt-5 1.1 Normativa del sector ambiental        
     
     figure
       img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-02.svg").tema1-decorativa-02  
@@ -128,19 +124,24 @@
                 figure(data-aos="fade-left")
                   img(src="@/assets/curso/temas/tema1/tema1-img-11.svg")      
     
-    p.mt-5.mb-5 A nivel nacional el proceso de orientación, acompañamiento y apalancamiento de acciones frente a la GRD, es liderado desde el sector medio ambiente por la Dirección de Cambio Climático y Gestión del Riesgo del Ministerio de Ambiente y Desarrollo Sostenible (MADS). Entidad que a través del establecimiento de normas, actividades, acciones, planes y programas permite garantizar los principios ambientales consagrados en la Constitución Política Colombiana de 1991 y la Ley 99 de 1993, articulados con la Política Nacional de Gestión del Riesgo de Desastres, Ley 1523 de 2012.                               
+    p.mt-5.mb-5 A nivel nacional el proceso de orientación, acompañamiento y apalancamiento de acciones frente a la GRD, es liderado desde el sector medio ambiente por la Dirección de Cambio Climático y Gestión del Riesgo del Ministerio de Ambiente y Desarrollo Sostenible (MADS). Entidad que a través del establecimiento de normas, actividades, acciones, planes y programas permite garantizar los principios ambientales consagrados en la Constitución Política Colombiana de 1991 y la Ley 99 de 1993, articulados con la Política Nacional de Gestión del Riesgo de Desastres, Ley 1523 de 2012.  
+
+
 
     .row.justify-content-around.aling-items-center.mb-5
       .col-lg-12.mb-lg-0
-        .bloque-texto-g.p-3.p-sm-4.p-md-5
+        .bloque-texto-g.p-2.p-sm-2.p-md-5
           .bloque-texto-g__img5(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-img-12.svg')})`}"
           )
-          .bloque-texto-g__texto5.p-4
-           p.mb-0 La Dirección de Cambio Climático y Gestión del Riesgo se encarga del desarrollo de bases técnicas y operativas necesarias para mejorar gestión del cambio climático en los diferentes sectores y territorios del país, en asocio con los diferentes sectores y territorios del país, en asocio con los diferentes actores nacionales e internacionales de carácter público y privado, donde #[b dentro de sus funciones está la relacionada con el establecimiento de lineamientos para prevenir el riesgo ecológico en asocio con el Sistema Nacional de Prevención y Atención de Desastres, así como orientar la evaluación de impactos de vulnerabilidad de la biodiversidad y sus servicios ecosistémicos por efectos del cambio climático], entre otros (Ministerio de Ambiente y Desarrollo Sostenible [MADS],s.f.)
+          .bloque-texto-g__texto5
+          .row
+            .col-lg-4
+              img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-03.svg")
+            .col-lg-8
+              p.mb-0 La Dirección de Cambio Climático y Gestión del Riesgo se encarga del desarrollo de bases técnicas y operativas necesarias para mejorar gestión del cambio climático en los diferentes sectores y territorios del país, en asocio con los diferentes sectores y territorios del país, en asocio con los diferentes actores nacionales e internacionales de carácter público y privado, donde #[b dentro de sus funciones está la relacionada con el establecimiento de lineamientos para prevenir el riesgo ecológico en asocio con el Sistema Nacional de Prevención y Atención de Desastres, así como orientar la evaluación de impactos de vulnerabilidad de la biodiversidad y sus servicios ecosistémicos por efectos del cambio climático], entre otros (Ministerio de Ambiente y Desarrollo Sostenible [MADS],s.f.)
 
-    figure
-      img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-03.svg").tema1-decorativa-03(data-aos="fade-right")  
+    
     
     figure
       img(src="@/assets/curso/temas/tema1/tema1-img-decorativa-04.svg").tema1-decorativa-04      
@@ -182,7 +183,7 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
-              p #[b En los municipios con población entre 30000 y 100000 habitantes se denomina plan básico de ordenamiento territorial (PBOT). ]
+              p.mb-5 #[b En los municipios con población entre 30000 y 100000 habitantes se denomina plan básico de ordenamiento territorial (PBOT). ]
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-img-15.svg')})`}")
       .col-sm-6.col-xl-3-1.mb-4.mb-xl-5     
         .tarjeta.tarjeta-slide.arriba.color-ligthYellow(@mouseover="indicadorTarjetaSlide = false")
