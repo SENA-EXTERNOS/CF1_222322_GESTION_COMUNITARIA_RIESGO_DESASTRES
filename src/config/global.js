@@ -165,14 +165,6 @@ export default {
     {
       tema: 'Normativa en gestión del riesgo de desastres.',
       referencia:
-        'Departamento Nacional de Planeación (DNP). (2022).<i> Marco Normativo para la Gestión Territorial.</i>',
-      tipo: 'Documento',
-      link:
-        'https://www.dnp.gov.co/programas/desarrollo-territorial/Fortalecimiento-Gestion-y-Finanzas-Publicas-Territoriales/marco-normativo-para-la-gestion-territorial',
-    },
-    {
-      tema: 'Normativa en gestión del riesgo de desastres.',
-      referencia:
         'Unidad Nacional para la Gestión del Riesgo de Desastres - Sistema Nacional de Gestión del Riego de Desastres. (2022). <i>Actualización Plan Nacional de Gestión del Riesgo de Desastres "Una estrategia de desarrollo"</i> 2015 - 2030. Colombia.',
       tipo: 'Documento',
       descarga: '/downloads/anexo3.pdf',
@@ -282,12 +274,6 @@ export default {
         'Ministerio de Ambiente y Desarrollo Sostenible (MADS). (s.f.). <em>La Relación entre la Gestión del Riesgo de Desastres y el Cambio Climático.</em>',
       link:
         'https://www.minambiente.gov.co/cambio-climatico-y-gestion-del-riesgo/la-relacion-entre-la-gestion-del-riesgo-de-desastres-y-el-cambio-climatico/',
-    },
-    {
-      referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). (2019). <em>Atlas de Riesgo de Colombia: revelando los desastres latentes</em>. Bogotá, Colombia.',
-      link:
-        'https://repositorio.gestiondelriesgo.gov.co/handle/20.500.11762/27179',
     },
     {
       referencia:

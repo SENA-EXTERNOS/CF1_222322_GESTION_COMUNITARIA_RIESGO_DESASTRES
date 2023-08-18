@@ -436,39 +436,39 @@ export default {
       {
         img: require('@/assets/curso/temas/tema1/tema1-img-22.svg'),
         texto:
-          '<h4>CAPITULO 1 </h4></br>Definiciones, principios, contextualización del Sistema Nacional de Gestión del Riesgo de Desastres.',
+          '<h4>Capítulo 1 </h4></br>Definiciones, principios, contextualización del Sistema Nacional de Gestión del Riesgo de Desastres.',
       },
       {
         img: require('@/assets/curso/temas/tema1/tema1-img-23.svg'),
         texto:
-          '<h4>CAPITULO 2 </h4></br>Estructura: organización, direccionamiento y acoplamiento del Sistema Nacional de Gestión del Riesgo de Desastres.',
+          '<h4>Capítulo 2 </h4></br>Estructura: organización, direccionamiento y acoplamiento del Sistema Nacional de Gestión del Riesgo de Desastres.',
       },
       {
         img: require('@/assets/curso/temas/tema1/tema1-img-24.svg'),
-        texto: '<h4>CAPITULO 3 </h4></br>Instrumentos de planificación.',
+        texto: '<h4>Capítulo 3 </h4></br>Instrumentos de planificación.',
       },
       {
         img: require('@/assets/curso/temas/tema1/tema1-img-25.svg'),
-        texto: '<h4>CAPITULO 4 </h4></br>Sistemas de información.',
+        texto: '<h4>Capítulo 4 </h4></br>Sistemas de información.',
       },
       {
         img: require('@/assets/curso/temas/tema1/tema1-img-26.svg'),
         texto:
-          '<h4>CAPITULO 5 </h4></br>Mecanismos de financiamiento de la Gestión del Riesgo de Desastres.',
+          '<h4>Capítulo 5 </h4></br>Mecanismos de financiamiento de la Gestión del Riesgo de Desastres.',
       },
       {
         img: require('@/assets/curso/temas/tema1/tema1-img-27.svg'),
         texto:
-          '<h4>CAPITULO 6 </h4></br>Declaratoria de desastre, calamidad pública y normalidad.',
+          '<h4>Capítulo 6 </h4></br>Declaratoria de desastre, calamidad pública y normalidad.',
       },
       {
         img: require('@/assets/curso/temas/tema1/tema1-img-28.svg'),
         texto:
-          '<h4>CAPITULO 7 </h4></br>Estatutos para atender las situaciones de desastre y calamidad pública.',
+          '<h4>Capítulo 7 </h4></br>Estatutos para atender las situaciones de desastre y calamidad pública.',
       },
       {
         img: require('@/assets/curso/temas/tema1/tema1-img-29.svg'),
-        texto: '<h4>CAPITULO 8 </h4></br>Disposiciones finales.',
+        texto: '<h4>Capítulo 8 </h4></br>Disposiciones finales.',
       },
     ],
   }),
