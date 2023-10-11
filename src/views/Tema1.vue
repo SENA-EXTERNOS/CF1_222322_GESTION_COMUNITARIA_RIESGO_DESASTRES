@@ -35,7 +35,7 @@
                 p Colombia al estar situada en noroccidente de América del Sur, con costa en los océanos Pacífico y Atlántico, con un sistema montañoso que la cruza de sur a norte, con variados ecosistemas que de acuerdo a sus particularidades permite el desarrollo de biodiversidad y relieves únicos y que existan diferentes pisos térmicos.
 
               .tarjeta.color-acento-botones.p-3(x="80%" y="20%" numero="2")
-                p El país según el censo del 2018, realizado por el Departamento Administrativo Nacional de Estadística (DANE), cuenta aproximadamente con 48´000.000 habitantes, distribuidos en 5 regiones y 32 departamentos (Departamento Administrativo Nacional de Estadística (DANE), s.f.).
+                p El país según el censo del 2018, realizado por el Departamento Administrativo Nacional de Estadística (DANE), cuenta aproximadamente con 48´000.000 de habitantes, distribuidos en 5 regiones y 32 departamentos (Departamento Administrativo Nacional de Estadística (DANE), s.f.).
 
               .tarjeta.color-acento-botones.p-3(x="20%" y="80%" numero="3")
                 p Dentro de las 5 regiones que está distribuida Colombia, la región Andina es aquella superficie con mayor cantidad de personas, con mayor desarrollo económico y por ende donde más se manifiestan impactos socioeconómicos y ambientales, convirtiéndola en la región más vulnerable frente a fenómenos naturales y antrópicos como deslizamientos, incendios, lluvias, entre otros.
@@ -104,7 +104,7 @@
 
     .row.justify-content-around
       .col-lg-10.mb-lg-0.mt-lg-3
-        p.mb-4 En Colombia se adoptó la Política Nacional de Gestión del Riesgo de Desastres a través de la Ley 1523 de 2012, la cual se considera como factor indispensable para el aseguramiento de la sustentabilidad y seguridad territorial, que busca además velar por los derechos e interés colectivos y la calidad de vida de la población colombiana. Esta ley busca que la planeación del territorio está basada en criterios de sostenibilidad y de participación comunitaria involucrando a todos los niveles gubernamentales. Asimismo, establece la creación del Sistema Nacional de Gestión del Riesgo de Desastres y muestra la que la gestión ambiental y del riesgo son procesos complementarios y que por lo tanto los actores involucrados en la planificación del territorio deben considerar esta visión integradora, velando por el desarrollo sostenible del territorio (Congreso de la República, 2012).
+        p.mb-4 En Colombia se adoptó la Política Nacional de Gestión del Riesgo de Desastres a través de la Ley 1523 de 2012, la cual se considera como factor indispensable para el aseguramiento de la sustentabilidad y seguridad territorial, que busca además velar por los derechos e interés colectivos y la calidad de vida de la población colombiana. Esta ley busca que la planeación del territorio está basada en criterios de sostenibilidad y de participación comunitaria involucrando a todos los niveles gubernamentales. Asimismo, establece la creación del Sistema Nacional de Gestión del Riesgo de Desastres y muestra que la gestión ambiental y del riesgo son procesos complementarios y que por lo tanto los actores involucrados en la planificación del territorio deben considerar esta visión integradora, velando por el desarrollo sostenible del territorio (Congreso de la República, 2012).
         .row.justify-content-center.align-items-center.mb-4
           .col-lg-3
             .row.justify-content-center.align-items-center.mb-4
@@ -113,7 +113,7 @@
                   img(src="@/assets/curso/temas/tema1/tema1-img-10.svg")
           .col-lg-9
             .cajon.color-acento-contenido.p-4
-              p Por lo cual, desde el Sistema Nacional Ambiental (SINA), se ha establecido una estrecha congruencia con el Sistema Nacional para la Gestión del Riesgo de Desastres (SNGRD), con el propósito desarrollar e implementar políticas y normas que promuevan la toma de decisiones informadas frente a la gestión ambiental y del riesgo, por medio de la cooperación coordinada y planificada entre estas entidades en sus diferentes niveles territoriales.
+              p Por lo cual, desde el Sistema Nacional Ambiental (SINA), se ha establecido una estrecha congruencia con el Sistema Nacional para la Gestión del Riesgo de Desastres (SNGRD), con el propósito de desarrollar e implementar políticas y normas que promuevan la toma de decisiones informadas frente a la gestión ambiental y del riesgo, por medio de la cooperación coordinada y planificada entre estas entidades en sus diferentes niveles territoriales.
         
         .row.justify-content-center.align-items-center.mb-4
           .col-lg-9
@@ -149,7 +149,7 @@
       .col-lg-10.mb-lg-0.mt-lg-3
         .row.justify-content-center.align-items-center.mb-4
           .col-lg-9
-            p A nivel territorial las Autoridades Ambientales Urbanas (AAU), las Corporaciones Autónomas Regionales y de Desarrollo Sostenible (CARS) y las Autoridades Ambientales (AA), que tienen como tarea principal, conforme a su jurisdicción, la administración de los recursos naturales renovables y el medio ambiente en general. Asimismo, deben actuar como dinamizadoras de la GRD según el contexto biogeográfico y las capacidades: técnicas, administrativas, financieras y dinámicas socio culturales, que se puedan presentar en el territorio.
+            p A nivel territorial las Autoridades Ambientales Urbanas (AAU), las Corporaciones Autónomas Regionales y de Desarrollo Sostenible (CARS) y las Autoridades Ambientales (AA), que tienen como tarea principal, conforme a su jurisdicción, la administración de los recursos naturales renovables y el medio ambiente en general. Asimismo, deben actuar como dinamizadoras de la GRD según el contexto biogeográfico y las capacidades: técnicas, administrativas, financieras y dinámicas socioculturales, que se puedan presentar en el territorio.
           .col-lg-3
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-12
@@ -162,7 +162,7 @@
             .anexo__icono
               img(src="@/assets/template/icono-pdf.svg")
             .anexo__texto
-              p #[b Anexo]. Instrumentos orientadores del Ministerio de Ambiente y Desarrollo Sostenible para la Gestión del Riesgo de Desastres en el terriitorio
+              p #[b Anexo]. Instrumentos orientadores del Ministerio de Ambiente y Desarrollo Sostenible para la Gestión del Riesgo de Desastres en el territorio
     separador
        
     #t_1_2.titulo-segundo.color-acento-contenido.mt-5
@@ -176,21 +176,21 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
-              p #[b Para los municipios con menos de 30000 habitantes se denomina esquemas de ordenamiento territorial (EOT).]
+              p #[b Para los municipios con menos de 30000 habitantes se denomina Esquemas de ordenamiento territorial (EOT).]
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-img-14.svg')})`}")
       .col-sm-6.col-xl-3-1.mb-4.mb-xl-5
         .tarjeta.tarjeta-slide.arriba.color-ligthYellow(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
-              p.mb-5 #[b En los municipios con población entre 30000 y 100000 habitantes se denomina plan básico de ordenamiento territorial (PBOT). ]
+              p.mb-5 #[b En los municipios con población entre 30000 y 100000 habitantes se denomina Plan básico de ordenamiento territorial (PBOT). ]
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-img-15.svg')})`}")
       .col-sm-6.col-xl-3-1.mb-4.mb-xl-5     
         .tarjeta.tarjeta-slide.arriba.color-ligthYellow(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
-              p #[b En los municipios con más de 100000 habitantes se denomina plan de ordenamiento territorial (POT).]
+              p #[b En los municipios con más de 100000 habitantes se denomina Plan de ordenamiento territorial (POT).]
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-img-16.svg')})`}")
 
     .row.mt-5
@@ -214,7 +214,7 @@
                 img(src='@/assets/curso/temas/tema1/tema1-img-18.svg', alt='Texto que describa la imagen')
             .col-md-10
               h3.mt-5 Tipo 2
-              p.mb-4 Vinculada con las áreas de inmuebles considerados como patrimonio cultural incluyendo el histórico, el artístico y arquitectónico; es decir, lo que construye nuestra cultura e histórica.          
+              p.mb-4 Vinculada con las áreas de inmuebles considerados como patrimonio cultural incluyendo el histórico, el artístico y arquitectónico; es decir, lo que construye nuestra cultura e historia.          
           .row
             .col-md-7.mb-md-0
               h3.mt-5 Tipo 3
@@ -360,7 +360,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-img-36.svg')})`}"
           )       
           .bloque-texto-g__texto4.p-4
-            p.mb-3 Del mismo modo, en esta ley en su artículo 32, establece que en los diferentes niveles territoriales deben formular e implementar instrumentos para proyectar, ejecutar y hacer seguimiento a las acciones para la gestión del riesgo que permitan la prevención, control y manejo del riesgo en el marco del conocimiento del riesgo y el ordenamiento territorial
+            p.mb-3 Del mismo modo, en esta ley en su artículo 32, establece que en los diferentes niveles territoriales deben formular e implementar instrumentos para proyectar, ejecutar y hacer seguimiento a las acciones para la gestión del riesgo que permitan la prevención, control y manejo del riesgo en el marco del conocimiento del riesgo y el ordenamiento territorial.
             p Asimismo, el artículo 33 establece que el lineamiento fundamental bajo el cual se centra el #[b conocimiento, la reducción y manejo del riesgo en el marco del ordenamiento territorial] es el Plan Nacional de Gestión del Riesgo de Desastres (PNGRD).
 
         p.mt-5.mb-5 Y en el artículo 34, se enuncia que la entidad encargada del diseño del PNGRD es la Unidad Nacional para la Gestión del Riesgo de desastres (UNGRD), conforme a los recursos e información suministrada por los comités del riesgo y los consejos territoriales. 

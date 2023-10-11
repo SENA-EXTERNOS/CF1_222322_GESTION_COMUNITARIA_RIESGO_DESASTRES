@@ -32,7 +32,7 @@
     img(src="@/assets/curso/temas/tema2/tema2-img-decorativa-02.svg").tema2-decorativa-02
 
     .tarjeta.color-azul-claro.p-8.p-md-5.mb-5  
-      p.texto-movil.mt-3.mb-5 En términos generales, las transformaciones que se impulsan por medio de la normativa son: Fuente: (Baas, Ramasamy, Dey de Pryck, & Battista, 2009).
+      p.texto-movil.mt-3.mb-5 En términos generales, las transformaciones que se impulsan por medio de la normativa son las siguientes (Baas, Ramasamy, Dey de Pryck, & Battista, 2009).
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
         .tarjeta_avatar
           img(src='@/assets/curso/temas/tema2/tema2-img-03.svg' alt='AvatarTop')
@@ -61,7 +61,7 @@
     p.mb-5 En el Marco de Acción de Hyogo 2005 - 2015 llamado construyendo la Resiliencia de las Naciones y Comunidades frente a Desastres (MAH) muestra los elementos fundamentales para la GRD priorizados en cinco acciones para el logro de las metas estratégicas de la Conferencia Mundial sobre Reducción de Desastres. 
 
     TabsB.color-primario
-      .py-4.py-md-5(titulo="Pre-Desastre" :icono="require('@/assets/curso/temas/tema2/tema2-img-08.svg')")
+      .py-4.py-md-5(titulo="Pre-desastre" :icono="require('@/assets/curso/temas/tema2/tema2-img-08.svg')")
         .row
           .col-md-12-1.mb-4.mb-md-0
             p.mb-0 #[b Actividades de desarrollo en curso] - Aspectos vigentes de la GRD en los programas de desarrollo.
@@ -71,21 +71,21 @@
             p.mb-0 #[b Preparación] - Actividades y medidas adoptadas con anticipación para asegurar una respuesta efectiva.
             p.mb-0 #[b Alerta temprana] - Provisión efectiva y oportuna de información para evitar o reducir el riesgo.
           
-      .py-4.py-md-5(titulo="Respuesta frente al Desastre  " :icono="require('@/assets/curso/temas/tema2/tema2-img-09.svg')")
+      .py-4.py-md-5(titulo="Respuesta frente al desastre  " :icono="require('@/assets/curso/temas/tema2/tema2-img-09.svg')")
         .row
           .col-md-12-1.mb-4.mb-md-0
-            p.mb-0 #[b Evacuación] - Partida masiva temporal de personas y propiedad desde l os lugares amenazados.
+            p.mb-0 #[b Evacuación] - Partida masiva temporal de personas y propiedad desde los lugares amenazados.
             p.mb-0 #[b Salvar personas y medios de vida] -  Protección de personas y medios de vida durante la emergencia
             p.mb-0 #[b Socorro inmediato] - Provisión de ayuda durante o inmediatamente después del desastre.
             p.mb-0 #[b Evaluación del daño y las pérdidas] -  Información sobre el impacto en los bienes y pérdida de la producción.
       
-      .py-4.py-md-5(titulo="Post-Desastre" :icono="require('@/assets/curso/temas/tema2/tema2-img-10.svg')")
+      .py-4.py-md-5(titulo="Post-desastre" :icono="require('@/assets/curso/temas/tema2/tema2-img-10.svg')")
         .row
           .col-md-12-1.mb-4.mb-md-0
             p.mb-0 #[b Ayuda en curso] - Ayuda continua hasta un cierto nivel de recuperación.
             p.mb-0 #[b Recuperación] - Acciones tomadas después de un desastre con el objetivo de restablecer la infraestructura y los servicios.
             p.mb-0 #[b Reconstrucción] -  Acciones tomadas después de un desastre para asegurar la reubicación/reasentamiento.
-            p.mb-0 #[b Recuperación económica y socia] - Medidas tomadas para normalizar la economía y la vida social.
+            p.mb-0 #[b Recuperación económica y social] - Medidas tomadas para normalizar la economía y la vida social.
             p.mb-0 #[b Actividades de desarrollo en curso] - Acciones continuas de programas de desarrollo.
             p.mb-0 #[b Evaluación del riesgo] - Proceso de diagnóstico para identificar nuevos riesgos que pueda enfrentar nuevamente las comunidades.
 
@@ -123,12 +123,12 @@
             img(src="@/assets/curso/temas/tema2/tema2-img-11-1.svg")
         .col-lg-8  
           .tema-2.txt2
-            p.mb-0 Sin embargo, el Marco de Sendái, establece 7 objetivos fundamentados en la prevención y reducción de los impactos o consecuencias por los desastres de origen natural o antropogénico, asimismo, es la herramienta centrada en el cumplimiento de los objetivos de desarrollo sostenible (ODS). Promoviendo la transformación del paradigma del conocimiento del riesgo de desastres y su enfoque en la gestión de estos en el entorno ambiental, social y económico.
+            p.mb-0 Sin embargo, el Marco de Sendai, establece 7 objetivos fundamentados en la prevención y reducción de los impactos o consecuencias por los desastres de origen natural o antropogénico, asimismo, es la herramienta centrada en el cumplimiento de los objetivos de desarrollo sostenible (ODS), promoviendo la transformación del paradigma del conocimiento del riesgo de desastres y su enfoque en la gestión de estos en el entorno ambiental, social y económico.
     
     .row.align-items-center.mt-5
       .col-lg-8
         p.mb-4 Los 7 objetivos, están acompañados de diversos principios rectores con el fin de disminuir los impactos derivados de los desastres naturales o antropogénicos, salvaguardar la vida y los beneficios de las generaciones actuales y futuras y contempla aquellos factores como la amenaza y la vulnerabilidad. 
-        p El fin último del Marco Sendái es la disminución del riesgo de desastres y los impactos generados por estos, las consecuencias económicas, sociales, culturales, ambientales, de bienes e infraestructura y de los medios de subsistencia que se ven traducidos en daños y afectación a la calidad de vida de las comunidades que repercuten en el desarrollo y resiliencia del territorio. 
+        p El fin último del Marco Sendai es la disminución del riesgo de desastres y los impactos generados por estos, las consecuencias económicas, sociales, culturales, ambientales, de bienes e infraestructura y de los medios de subsistencia que se ven traducidos en daños y afectación a la calidad de vida de las comunidades que repercuten en el desarrollo y resiliencia del territorio. 
       .col-lg-2
         .row.justify-content-left.align-items-left.mb-5.mt-5
           .col-lg-12
@@ -153,7 +153,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido.mt-5
       h2 2.2 Instrumentos de seguimiento de los procesos clave de la gestión del riesgo de desastres
     
-    p.mt-5 El análisis exhaustivo de la GRD contribuye con la evaluación y la consolidación de las capacidades de las organizaciones y comunidades con el fin de lograr cumplir las metas mundiales del Marco Sendái acciones que son afines a los lineamientos del desarrollo sostenible. 
+    p.mt-5 El análisis exhaustivo de la GRD contribuye con la evaluación y la consolidación de las capacidades de las organizaciones y comunidades con el fin de lograr cumplir las metas mundiales del Marco de Sendai, acciones que son afines a los lineamientos del desarrollo sostenible. 
     p La GRD y el desarrollo sostenible, son conceptos complementarios para la planeación del territorio y dicha complementariedad se visualiza en los ejemplos a continuación:
 
     .row.align-items-up.mt-5

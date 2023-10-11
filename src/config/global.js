@@ -172,14 +172,14 @@ export default {
     {
       tema: 'Elementos marco del riesgo de desastres.',
       referencia:
-        'Organización de las Naciones Unidas. (22 de octubre de 2015). <em>Marco de Sendái para la Reducción del Riesgo de Desastres 2015-2030. Nueva York.</em>',
+        'Organización de las Naciones Unidas. (22 de octubre de 2015). <em>Marco de Sendai para la Reducción del Riesgo de Desastres 2015-2030. Nueva York.</em>',
       tipo: 'Documento',
       link: 'https://www.preventionweb.net/files/resolutions/N1516720.pdf',
     },
     {
       tema: 'Elementos marco del riesgo de desastres.',
       referencia:
-        'Organización de las Naciones Unidas. (2022). <em>Objetivos y Metas de Desarrollo Sotenible.</em>',
+        'Organización de las Naciones Unidas. (2022). <em>Objetivos y Metas de Desarrollo sotenible.</em>',
       tipo: 'Pagina Web',
       link:
         'https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/',
@@ -202,7 +202,7 @@ export default {
     {
       termino: 'Desastre',
       significado:
-        'seria interrupción en el funcionamiento de una comunidad o sociedad que causa una gran cantidad pérdidas humanas, materiales, económicas o ambientales; que exceden la capacidad de la comunidad o sociedad afectada para afrontar la situación utilizando sus propios recursos. Un desastre es una función del proceso de riesgo. Resulta de la combinación de amenazas, condiciones de vulnerabilidad y capacidades o medidas insuficientes para reducir las consecuencias negativas potenciales del riesgo.',
+        'seria interrupción en el funcionamiento de una comunidad o sociedad que causa una gran cantidad de pérdidas humanas, materiales, económicas o ambientales; que exceden la capacidad de la comunidad o sociedad afectada para afrontar la situación utilizando sus propios recursos. Un desastre es una función del proceso de riesgo. Resulta de la combinación de amenazas, condiciones de vulnerabilidad y capacidades o medidas insuficientes para reducir las consecuencias negativas potenciales del riesgo.',
     },
     {
       termino: 'Gestión ambiental',
@@ -220,9 +220,9 @@ export default {
         'Principal lineamiento que precisa las metas, planes y acciones, a través de las cuales se desarrollan procesos de conocimiento del riesgo, reducción del riesgo y de manejo de desastres, en el marco de la planificación del desarrollo nacional.',
     },
     {
-      termino: 'Predesastre',
+      termino: 'Pre-desastre',
       significado:
-        'Elemento clave para el marco del riesgo de desastres que tienen como actividades enfocadas en la revisión de los aspectos vigentes de la gestión del riesgo planteadas en los planes de desarrollo, la evaluación del riesgo, acciones de prevención, mitigación, preparación y alerta temprana para evitar o reducir el riesgo de desastres',
+        'Elemento clave para el marco del riesgo de desastres que tienen como actividades la revisión de los aspectos vigentes de la gestión del riesgo planteadas en los planes de desarrollo, la evaluación del riesgo, acciones de prevención, mitigación, preparación y alerta temprana para evitar o reducir el riesgo de desastres',
     },
     {
       termino: 'Resiliencia',
@@ -235,7 +235,7 @@ export default {
         'Combinación de la probabilidad de que se produzca un evento y sus consecuencias negativas. Tales como muertes, lesiones, propiedad, medios de vida, interrupción de actividad económica o deterioro ambiental, como resultado de interacciones entre las amenazas naturales o antropogénicas y las condiciones de vulnerabilidad.',
     },
     {
-      termino: 'Sendái',
+      termino: 'Sendai',
       significado:
         'Marco que plantea 7 objetivos acompañados de principios con el fin de disminuir los impactos derivados de los desastres naturales o antropogénicos, salvaguardar la vida y los beneficios de las generaciones actuales y futuras y contempla aquellos factores como la amenaza y la vulnerabilidad.',
     },
@@ -249,6 +249,7 @@ export default {
     {
       referencia:
         'Baas, S., Ramasamy, S., Dey de Pryck, J., & Battista, F. (2009). <em>Análisis de Sistemas de Gestión del Riesgo de Desastres. Una Guía</em>. Roma, Italia: Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO).',
+      link: 'https://www.fao.org/3/i0304s/i0304s.pdf',
     },
     {
       referencia:
@@ -277,7 +278,7 @@ export default {
     },
     {
       referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres. (2022). <em>Normatividad Sistema Nacional de Gestión del Riego de Desastres.</em>',
+        'Unidad Nacional para la Gestión del Riesgo de Desastres. (2022). <em>Normatividad Sistema Nacional de Gestión del Riesgo de Desastres.</em>',
       link: 'https://portal.gestiondelriesgo.gov.co/Paginas/Normatividad.aspx',
     },
     {
