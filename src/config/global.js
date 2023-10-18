@@ -179,8 +179,8 @@ export default {
     {
       tema: 'Elementos marco del riesgo de desastres.',
       referencia:
-        'Organización de las Naciones Unidas. (2022). <em>Objetivos y Metas de Desarrollo sotenible.</em>',
-      tipo: 'Pagina Web',
+        'Organización de las Naciones Unidas. (2022). <em>Objetivos y Metas de Desarrollo sostenible.</em>',
+      tipo: 'Página Web',
       link:
         'https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/',
     },
